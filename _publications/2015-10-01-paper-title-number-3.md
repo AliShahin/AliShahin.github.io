@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Privacy-Preserving Deep Inference for Rich User Data on The Cloud"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+permalink: /publication/2017-10-01-Privacy-Preserving Deep Inference for Rich User Data on The Cloud
+excerpt: 'This paper is about Privacy-Preserving in Deep Learning.'
+date: 2017-10-01
+venue: 'ArXiv'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi. (October 2017). &quot;Privacy-Preserving Deep Inference for Rich User Data on The Cloud.&quot; <i>ArXiv 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about Privacy-Preserving in Deep Learning.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi. (October 2017). "Privacy-Preserving Deep Inference for Rich User Data on The Cloud." <i>ArXiv 1</i>. 1(3).
