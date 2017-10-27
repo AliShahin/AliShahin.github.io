@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A New Algorithm for Training Sparse Autoencoders"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-08-28-A New Algorithm for Training Sparse Autoencoders
+excerpt: 'This paper is about sparse representation learning by using autoencoders.'
+date: 2017-08-28
+venue: 'European Signal Processing Conference (EUSIPCO)'
+paperurl: 'http://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570347253.pdf'
+citation: 'Ali Shahin Shamsabadi, Massoud Babaie-Zadeh, Seyyede Zohreh Seyyedsalehi, Hamid R Rabiee, Christian Jutten. (August 2017). &quot;A New Algorithm for Training Sparse Autoencoders.&quot; <i> 25th European Signal Processing Conference (EUSIPCO) 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about sparse representation learning by using autoencoders.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570347253.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Ali Shahin Shamsabadi, Massoud Babaie-Zadeh, Seyyede Zohreh Seyyedsalehi, Hamid R Rabiee, Christian Jutten (August 2017). "A New Algorithm for Training Sparse Autoencoders." <i> 25th European Signal Processing Conference (EUSIPCO) 1</i>. 1(2).
