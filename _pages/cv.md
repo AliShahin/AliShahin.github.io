@@ -26,7 +26,7 @@ Work experience
 Skills
 ======
 * Programing
-  * Python (Caffe2, Caffe, Keras)
+  * Python (Caffe2, Caffe, Keras, PyTorch)
   * Matlab
   * C/C++
   * Verilog
