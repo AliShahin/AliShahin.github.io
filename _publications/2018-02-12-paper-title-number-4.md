@@ -6,12 +6,12 @@ excerpt: 'This paper is information-theoretic deep learning model to trade priva
 date: 2018-02-12
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/1802.03151.pdf'
-citation: 'Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas,Hamed Haddadi, Hamid R. Rabiee. (Feb 2018). 
-&quot;Deep Private-Feature Extraction.&quot; <i>ArXiv 1</i>. 1(4).'
+citation: 'Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee. (Feb 2018). 
+&quot;Deep Private-Feature Extraction.&quot; <i>ArXiv</i>. 1802.03151.'
 ---
 This paper is information-theoretic deep learning model to trade privacy vs. accuracy.
 
 [Download paper here](https://arxiv.org/pdf/1802.03151.pdf)
 
-Recommended citation: Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas,Hamed Haddadi, Hamid R. Rabiee. (Feb 2017). 
-"Deep Private-Feature Extraction." <i>Journal 1</i>. 1(4).
+Recommended citation: Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas,Hamed Haddadi, Hamid R. Rabiee. (Feb 2018). 
+"Deep Private-Feature Extraction." <i>ArXiv</i>. 1802.03151.
