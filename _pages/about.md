@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Ali Shahin Shmasabadi's home on the web! 
-I am currently a first-year PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a visiting student of Imperial College London.
+I am currently a second-year PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue.
