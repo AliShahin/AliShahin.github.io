@@ -1,5 +1,5 @@
 ---
-title: "machine Learning"
+title: "Machine Learning"
 collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2018-spring-teaching-1
