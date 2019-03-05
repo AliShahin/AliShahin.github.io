@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* 2019: PhD Enrichment
+  * The Alan Turing Institute
 * 2018: Internship
   * The Alan Turing Institute
   * Project: Privacy-aware neural network classification & training
@@ -31,7 +33,7 @@ Work experience
 Skills
 ======
 * Programing
-  * Python (Caffe2, Caffe, Keras, PyTorch)
+  * Python (Keras, Tensorflow, PyTorch, Caffe2, Caffe)
   * Matlab
   * C/C++
   * Verilog
