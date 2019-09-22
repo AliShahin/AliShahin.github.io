@@ -2,8 +2,8 @@
 title: "SCENE PRIVACY PROTECTION"
 collection: publications
 permalink: /publication/2019-05-01_Scene-Privay-Preserving
-excerpt: '[<b>Paper</b>](https://ieeexplore.ieee.org/abstract/document/8682225),
-[<b>Code</b>](https://github.com/AliShahin/P-FGSM).'
+excerpt: '<p style='color:blue'>[<b>Paper</b>](https://ieeexplore.ieee.org/abstract/document/8682225),
+[<b>Code</b>](https://github.com/AliShahin/P-FGSM).</p>'
 date: 2019-05-12
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing <b> (ICASSP)</b>'
 citation: 'Chau Yi Li*, Ali Shahin Shamsabadi*, Ricardo Sanchez-Matilla*, Riccardo Mazzon, Andrea Cavallaro. &quot;SCENE PRIVACY PROTECTION.&quot; <i> IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), </i> May 12-17, 2019, Brighton, UK. <br> <b> (*=authors contributing equally) </b>' 
