@@ -3,7 +3,7 @@ title: "ColorFool: Semantic Adversarial Colorization"
 collection: publications
 permalink: /publication/2019_11_25_ColorFool
 
-excerpt: '[<b>Paper</b>](https://arxiv.org/pdf/1911.10891.pdf), code will be released soon.'
+excerpt: '[<b>Paper</b>](https://arxiv.org/pdf/1911.10891.pdf)', code will be released soon.
 date: 2020-06-14
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing <b> (ICASSP)</b>'
 citation: 'Ali Shahin Shamsabadi, Ricardo Sanchez-Matilla, Andrea Cavallaro. &quot;ColorFool: Semantic Adversarial Colorization.&quot; <i> IEEE Con- ference on Computer Vision and Pattern Recognition (CVPR), </i> May 14-19, 2020, Seattle, Washington, US.' 
