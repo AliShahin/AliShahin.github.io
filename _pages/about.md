@@ -18,5 +18,6 @@ I am currently a third-year PhD student of Centre for Intelligent Sensing (CIS) 
 - <b> [April 2019] </b> Paper accepted at 26th ACM Conference on Computer and Communications Security, [CCS2019](https://sigsac.org/ccs/CCS2019/), called [QUOTIENT: Two-Party Secure Neural Network Training and Prediction](https://arxiv.org/pdf/1907.03372.pdf)!
 - <b> [Jan 2019] </b> Paper accepted at 44th International Conference on Acoustics, Speech, and Signal Processing, [ICASSP2019](https://2019.ieeeicassp.org), called [Scene privacy protection](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/56780/Cavallaro%20Scene%20privacy%20protection%202019%20Accepted.pdf?sequence=2)!
 
+- <b> [March 2019] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
 
 
