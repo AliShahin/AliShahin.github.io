@@ -12,7 +12,7 @@ This is Ali Shahin Shmasabadi's home on the web!
 I am currently a third-year PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
 
 ## Research 
-I love to explore the intersection of Machine Learning, Privacy and Image Processing! My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications addresse the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: privacy-preserving centralized learning, distributed learning and adversarial examples for privacy protection.
+I love to explore the intersection of Machine Learning, Privacy and Image Processing! My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications addresse the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: adversarial examples for privacy protection, privacy-preserving centralized and distributed learning.
 
 ## News
 - <b> [March 2020] </b> Paper accepted at IEEE Transactions on Information Forensics and Security [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), called [PrivEdge: From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574.pdf)! (impact factor 6.2)
