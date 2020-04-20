@@ -33,7 +33,7 @@ Work experience
 Skills
 ======
 * Programing
-  * Python (Keras, Tensorflow, PyTorch, Caffe2, Caffe)
+  * Python (PyTorch, Keras, Tensorflow, Caffe2, Caffe)
   * C/C++ (ABY (Multi-Party Computation), SEAL and HElib (Homomorphic Encryption))
   * Matlab
   * Verilog
