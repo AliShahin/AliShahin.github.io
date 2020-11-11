@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is Ali Shahin Shmasabadi's home on the web! 
-I am currently a third-year PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
+I am currently a PhD intern at Inria. I am also a third-year PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
 
 ## Research 
 I love to explore the intersection of Machine Learning, Privacy and Image Processing! My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications address the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: adversarial examples for privacy protection, privacy-preserving centralized and distributed learning.
