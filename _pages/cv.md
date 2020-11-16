@@ -11,12 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Shiraz University of Technology, 2014
-* M.S. in Electrical Engineering (Digital), Sharif University of Technology, 2016
 * Ph.D in Electrical Engineering and Computer Science, Queen Mary University of London, 2021 (expected)
+* M.S. in Electrical Engineering (Digital), Sharif University of Technology, 2016
+* B.S. in Electrical Engineering, Shiraz University of Technology, 2014
+
 
 Work experience
 ======
+* 2020: Internship
+  * Inria
+  * Project: Intersection of differential privacy and adversarial audios
+  * Supervisors: Aurelien Bellet, Emmanuel Vincent, Marc Tommasi 
+* 2020: Research Assistant
+  * Queen Mary University of London, University of Lisbon, Carnegie Mellon University
+  * Project: FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances
+  * Goal: Generate and conceal the adversarial perturbation within the original audio files
+  * Supervisors: Alberto Abad, Bhiksha Raj, Andrea Cavallaro, Isabel Trancoso
 * 2019: PhD Enrichment
   * The Alan Turing Institute
 * 2018: Internship
@@ -27,7 +37,7 @@ Work experience
 * 2017: Research Assistant
   * Sharif University of Technology in Digital Media Lab (DML)
   * Duties included: Privacy-Preserving in Deep Learning
-  * Supervisor: Professor Hamid.R Rabiee
+  * Supervisor: Hamid Reza Rabiee
 
   
 Skills
