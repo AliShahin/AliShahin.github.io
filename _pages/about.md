@@ -15,7 +15,7 @@ I am currently a PhD intern at Inria. I am also a third-year PhD student of Cent
 I love to explore the intersection of Machine Learning, Privacy and Image Processing! My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications address the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: adversarial examples for privacy protection, privacy-preserving centralized and distributed learning.
 
 ## News
-- <b> [November 2020] </b> A new adversarial example preprint, called [FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances(https://arxiv.org/pdf/2011.08483.pdf), [<font color="blue">Code</font>](https://fsept11.github.io/FoolHD/)! 
+- <b> [November 2020] </b> A new adversarial example preprint, called [FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances](https://arxiv.org/pdf/2011.08483.pdf), [<font color="blue">Code</font>](https://fsept11.github.io/FoolHD/)! 
 - <b> [October 2020] </b> Giving a [toturial](http://cis.eecs.qmul.ac.uk/privacymultimedia.html) at [ACM Multimedia 2020 conference](https://2020.acmmm.org), Part2: adversarial images. 
 - <b> [September 2020] </b> Offered an internship at [Inria](https://www.inria.fr/en/centre-inria-lille-nord-europe), under supervision of Aurelien Bellet.
 - <b> [August 2020] </b> A new adversarial preprint, called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf)!
