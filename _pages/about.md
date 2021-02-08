@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Ali Shahin Shmasabadi's home on the web! 
-I am currently a Postdoctoral fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
+This is Ali Shahin Shmasabadi! 
+I am currently a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
 I am also a PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a PhD intern at Inria, a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
 
 ## Research 
@@ -17,7 +17,7 @@ I love to explore the intersection of Machine Learning, Privacy and Image/Audio 
 
 ## News
 - <b> [February 2021] </b> Started a Postdoctoral fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
-- <b> [January 2021] </b> Paper accepted at 46th International Conference on Acoustics, Speech, and Signal Processing, [ICASSP2021](https://2021.ieeeicassp.org), called [FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances](https://arxiv.org/pdf/2011.08483.pdf), [<font color="blue">Code</font>](https://fsept11.github.io/FoolHD/)! (acceptance rate 19%)
+- <b> [January 2021] </b> Paper accepted at 46th International Conference on Acoustics, Speech, and Signal Processing, [ICASSP2021](https://2021.ieeeicassp.org), called [FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances](https://arxiv.org/pdf/2011.08483.pdf), [<font color="blue">Code</font>](https://fsepteixeira.github.io/FoolHD/)! (acceptance rate 19%)
 - <b> [December 2020]  </b> Program Committee shadow member of [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html), IEEE S&P 2021!
 - <b> [October 2020] </b> Giving a [toturial](http://cis.eecs.qmul.ac.uk/privacymultimedia.html) at [ACM Multimedia 2020 conference](https://2020.acmmm.org), Part2: adversarial images. 
 - <b> [September 2020] </b> Offered an internship at [Inria](https://www.inria.fr/en/centre-inria-lille-nord-europe), under supervision of Aurelien Bellet.
