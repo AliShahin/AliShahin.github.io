@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is Ali Shahin Shmasabadi! 
-I am currently a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
+I am currently a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr) working on differential privacy learning, fairwashing and adversarial examples.
 I am also a PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a PhD intern at Inria, a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
 
 ## Research 
