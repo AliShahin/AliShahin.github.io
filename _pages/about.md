@@ -23,7 +23,7 @@ My research interests and recent works include:
 
 
 ## News
-- <b> [November 2021] </b> Started a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
+- <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 - <b> [August 2021] </b> Paper accepted at IEEE Transactions on Image Processing [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf), [<font color="blue">Code</font>](https://github.com/AliShahin/FilterFool)!
 - <b> [March 2021] </b> Successfully passed PhD viva!
 - <b> [February 2021] </b> Started a Postdoctoral fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
