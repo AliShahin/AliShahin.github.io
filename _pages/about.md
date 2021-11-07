@@ -14,6 +14,9 @@ I have recieved a PhD in Computer Scienece from Queen Mary University of London.
 
 ## Research 
 I love to explore the intersection of Machine Learning, Privacy, Fairness and Image/Audio Processing! 
+My research interests include:
+- Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
+- Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
 
 
 My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications address the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: adversarial examples for privacy protection, privacy-preserving centralized and distributed learning.
