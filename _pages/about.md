@@ -13,7 +13,7 @@ I am a Research Associate at the [Artificial intelligence (Safe and ethical)](ht
 I have received a PhD in Computer Science from the Queen Mary University of London. During my PhD, I did internships at Inria (with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) and [Emmanuel Vincent](https://members.loria.fr/EVincent/) on the intersection of differential privacy and audio) and The Alan Turing Institue (with [Adria Gascon](https://www.lsi.upc.edu/~agascon/) and [Matt Kusner](https://mkusner.github.io) on the intersection of multi-party computation and machine learning). I was also a PhD visitor at Imperial College London working with [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi).
 
 ## Research 
-I love to explore the intersection of Machine Learning, Privacy, Fairness and Image/Audio Processing! 
+I love to explore the intersection of Machine Learning, Privacy, Fairness and Image/Audio Processing!<br />
 My research interests and recent works include:
 - Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
