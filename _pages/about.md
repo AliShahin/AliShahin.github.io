@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Ali Shahin Shmasabadi! 
-I am currently a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr) working on differential privacy learning, fairwashing and adversarial examples.
-I am also a PhD student of Centre for Intelligent Sensing (CIS) in the school of Electronic Enginnering and Computer Science (EECS) at Queen Mary University of London. Meanwhile, I am a PhD intern at Inria, a visiting student of Imperial College London and a Enrichment student at Alan Turing Institue. 
+This is Dr. Ali Shahin Shmasabadi! 
+I am a Research Associate at the [Artificial intelligence (Safe and ethical)](https://www.turing.ac.uk/research/research-programmes/artificial-intelligence-ai/safe-and-ethical) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) at [The Alan Turing Institute](https://www.turing.ac.uk). Meanwhile, I am a visitor at [CleverHans Lab](https://cleverhans-lab.github.io) where I was a Postdoctoral Fellow under supervision of [Nicolas Papernot](https://www.papernot.fr) at [Vector Institute](https://vectorinstitute.ai) before joining the Turing.
+I have recieved a PhD in Computer Scienece from Queen Mary University of London. During my PHD, I did internships at Inria (with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) and [Emmanuel Vincent](https://members.loria.fr/EVincent/) on the intersection of differential privacy and audio) and The Alan Turing Institue (with [Adria Gascon](https://www.lsi.upc.edu/~agascon/) and [Matt Kusner](https://mkusner.github.io) on the intersection of multi-party computation and machine learning). I was also a PHD visitor at Imperial College London working with [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi).
 
 ## Research 
 I love to explore the intersection of Machine Learning, Privacy and Image/Audio Processing! My research has been published at top-tier conferences (in vision, privacy and images) such as IEEE CVPR, ACM CCS, ACM Mobisys, ICASSP, IEEE ICIP as well as IEEE transactions. These publications address the privacy risks in Machine Learning as a Service, which can be categorized in three research themes: adversarial examples for privacy protection, privacy-preserving centralized and distributed learning.
