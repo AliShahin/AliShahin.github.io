@@ -18,11 +18,12 @@ My research interests and recent works include:
 - Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
 - Differential privacy for images/audios
-- Privacy attacks 
+- Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 
 ## News
+- <b> [December 2021] </b> A new preprint, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
 - <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 - <b> [August 2021] </b> Paper accepted at IEEE Transactions on Image Processing [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf), [<font color="blue">Code</font>](https://github.com/AliShahin/FilterFool)!
 - <b> [March 2021] </b> Successfully passed PhD viva!
