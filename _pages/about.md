@@ -17,13 +17,16 @@ I love to explore the intersection of Machine Learning, Privacy, Fairness and Im
 My research interests and recent works include:
 - Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
-- Differential privacy for images/audios
+- Differential privacy for images/audios (see [DPspeech](https://arxiv.org/pdf/2202.11823.pdf))
 - Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 
 ## News
-- <b> [December 2021] </b> A new preprint, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
+- <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
+- <b> [February 2022] </b> A new preprint on speech privacy, called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
+- <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j).
+- <b> [December 2021] </b> A new preprint on privacy attack, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
 - <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 - <b> [August 2021] </b> Paper accepted at IEEE Transactions on Image Processing [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf), [<font color="blue">Code</font>](https://github.com/AliShahin/FilterFool)!
 - <b> [March 2021] </b> Successfully passed PhD viva!
