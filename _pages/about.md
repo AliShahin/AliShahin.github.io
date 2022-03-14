@@ -23,6 +23,7 @@ My research interests and recent works include:
 
 
 ## News
+- <b> [March 2022] </b> Program Committee shadow member of International Conference on Machine Learning, ICML, 2022!
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [February 2022] </b> A new preprint on speech privacy, called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j).
