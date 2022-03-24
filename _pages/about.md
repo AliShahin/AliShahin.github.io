@@ -21,9 +21,11 @@ My research interests and recent works include:
 - Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
+## PC services 
+ICML'2022, ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io), ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
+
 
 ## News
-- <b> [March 2022] </b> Program Committee member of International Conference on Machine Learning, ICML, 2022!
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [February 2022] </b> A new preprint on speech privacy, called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j).
@@ -33,10 +35,8 @@ My research interests and recent works include:
 - <b> [March 2021] </b> Successfully passed PhD viva!
 - <b> [February 2021] </b> Started a Postdoctoral fellow at [Vector Institute](https://vectorinstitute.ai) under supervision of [Nicolas Papernot](https://www.papernot.fr).
 - <b> [January 2021] </b> Paper accepted at 46th International Conference on Acoustics, Speech, and Signal Processing, [ICASSP2021](https://2021.ieeeicassp.org), called [FoolHD: Fooling speaker identification by Highly imperceptible adversarial Disturbances](https://arxiv.org/pdf/2011.08483.pdf), [<font color="blue">Code</font>](https://fsepteixeira.github.io/FoolHD/)! (acceptance rate 19%)
-- <b> [December 2020]  </b> Program Committee shadow member of [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html), IEEE S&P 2021!
 - <b> [October 2020] </b> Giving a [toturial](http://cis.eecs.qmul.ac.uk/privacymultimedia.html) at [ACM Multimedia 2020 conference](https://2020.acmmm.org), Part2: adversarial images. 
 - <b> [September 2020] </b> Offered an internship at [Inria](https://www.inria.fr/en/centre-inria-lille-nord-europe), under supervision of Aurelien Bellet.
-- <b> [July 2020]  </b> Program Committee member of [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io) in ECCV 2020!
 - <b> [April 2020] </b> Selected as 200 young researchers from all over the world for 8th [HEIDELBERG LAUREATE FORUM](https://www.heidelberg-laureate-forum.org/about-us.html) by international experts appointed by award-granting institutions: The Association for Computing Machinery (ACM), the Norwegian Academy of Science and Letters (DNVA) and the International Mathematical Union (IMU)!
 - <b> [March 2020] </b> Paper accepted at IEEE Transactions on Information Forensics and Security [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), called [PrivEdge: From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574.pdf), [<font color="blue">Code</font>](https://github.com/smartcameras/PrivEdge)! (impact factor 6.2)
 - <b> [March 2020] </b> Paper accepted at IEEE Transactions on Multimedia [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), called [Exploiting Vulnerabilities of Deep Neural Networks for Privacy Protection](https://arxiv.org/pdf/2007.09766.pdf), [<font color="blue">Code</font>](https://github.com/smartcameras/RP-FGSM)! (impact factor 5.5)
