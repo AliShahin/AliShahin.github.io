@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering and Computer Science, Queen Mary University of London, 2021 (expected)
+* Postdoc, The Alan Turing Institute, 2022
+* Postdoc, Vector Institute, 2021
+* Ph.D in Electrical Engineering and Computer Science, Queen Mary University of London, 2021
 * M.S. in Electrical Engineering (Digital), Sharif University of Technology, 2016
-* B.S. in Electrical Engineering, Shiraz University of Technology, 2014
 
 
 Work experience
