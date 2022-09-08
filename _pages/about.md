@@ -22,10 +22,9 @@ My research interests and recent works include:
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
-- <b> [September 2022] </b> Paper accepted at 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
+- <b> [September 2022] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
-- <b> [February 2022] </b> A new preprint on speech privacy, called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
-- <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j).
+- <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
 - <b> [December 2021] </b> A new preprint on privacy attack, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
 - <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 - <b> [August 2021] </b> Paper accepted at IEEE Transactions on Image Processing [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf), [<font color="blue">Code</font>](https://github.com/AliShahin/FilterFool)!
@@ -47,5 +46,5 @@ My research interests and recent works include:
 - <b> [March 2018] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk), working on project [Privacy-aware neural network classification & training](https://aticdn.s3-eu-west-1.amazonaws.com/2017/12/Internship-Project-Descriptions-2018-FINAL-WC.pdf) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
 
 ## PC services 
-ICML'2022, ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io), ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
+AISTATS'2023, ICML'2022, TIFS'2022, TOPS'2022, ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io), ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
 
