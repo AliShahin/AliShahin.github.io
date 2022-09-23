@@ -22,7 +22,7 @@ My research interests and recent works include:
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
-- <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection]([https://arxiv.org/pdf/2202.11823.pdf](https://nips.cc/Conferences/2022/Schedule?showEvent=54741).
+- <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection](https://nips.cc/Conferences/2022/Schedule?showEvent=54741).
 - <b> [September 2022] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
