@@ -22,8 +22,11 @@ My research interests and recent works include:
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
+- <b> [November 2022] </b> Co-organizing the Privacy Preserving Machine Learning [PPML](https://ppml-workshop.github.io/ppml22/) workshop this year co-located with [FOCS](https://focs2022.eecs.berkeley.edu).
 - <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection](https://nips.cc/Conferences/2022/Schedule?showEvent=54741).
-- <b> [September 2022] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf).
+- <b> [September 2022] </b> 2xPaper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) and [Private Multi-Winner Voting for Machine Learning](https://alishahin.github.io).
+- <b> [August 2022] </b> Chair and organise an in-person talk by [Olya Ohrimenko](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate) at Turing AI Programme.
+- <b> [July 2022] </b> Chair and organise an in-person talk by [Nicolas Papernot](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate](https://www.papernot.fr) at Turing AI Programme.
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
 - <b> [December 2021] </b> A new preprint on privacy attack, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
@@ -49,3 +52,8 @@ My research interests and recent works include:
 ## PC services 
 AISTATS'2023, ICML'2022, TIFS'2022, TOPS'2022, ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io), ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
 
+
+## Talks
+- 10/2022 - Queen's University of Belfast
+- 09/2022 - Information Commissioner’s Office
+- 09/2022 - Brave
