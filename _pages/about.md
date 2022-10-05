@@ -14,7 +14,7 @@ I have received a PhD in Computer Science from the Queen Mary University of Lond
 
 ## Research 
 I love to explore the intersection of Machine Learning, Privacy, Fairness and Image/Audio Processing!<br />
-My research interests and recent works include:
+My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. My research interests and recent works include:
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
 - Differential privacy for images/audios and graphs (see [DPspeech](https://arxiv.org/pdf/2202.11823.pdf), [GAP](https://arxiv.org/pdf/2203.00949.pdf))
 - Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
