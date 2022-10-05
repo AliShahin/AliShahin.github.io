@@ -22,7 +22,7 @@ My research interests and recent works include:
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
-- <b> [November 2022] </b> Co-organizing the Privacy Preserving Machine Learning [PPML](https://ppml-workshop.github.io/ppml22/) workshop this year co-located with [FOCS](https://focs2022.eecs.berkeley.edu).
+- <b> [November 2022] </b> Co-organizing the Privacy Preserving Machine Learning [PPML'2022](https://ppml-workshop.github.io/ppml22/) workshop co-located with [FOCS'2022](https://focs2022.eecs.berkeley.edu).
 - <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection](https://nips.cc/Conferences/2022/Schedule?showEvent=54741).
 - <b> [September 2022] </b> 2xPaper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) and [Private Multi-Winner Voting for Machine Learning](https://alishahin.github.io).
 - <b> [August 2022] </b> Chair and organise an in-person talk by [Olya Ohrimenko](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate) at Turing AI Programme.
