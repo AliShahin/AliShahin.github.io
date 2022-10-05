@@ -15,10 +15,10 @@ I have received a PhD in Computer Science from the Queen Mary University of Lond
 ## Research 
 I love to explore the intersection of Machine Learning, Privacy, Fairness and Image/Audio Processing!<br />
 My research interests and recent works include:
-- Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
 - Differential privacy for images/audios and graphs (see [DPspeech](https://arxiv.org/pdf/2202.11823.pdf), [GAP](https://arxiv.org/pdf/2203.00949.pdf))
 - Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
+- Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
@@ -26,7 +26,7 @@ My research interests and recent works include:
 - <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection](https://nips.cc/Conferences/2022/Schedule?showEvent=54741).
 - <b> [September 2022] </b> 2xPaper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) and [Private Multi-Winner Voting for Machine Learning](https://alishahin.github.io).
 - <b> [August 2022] </b> Chair and organise an in-person talk by [Olya Ohrimenko](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate) at Turing AI Programme.
-- <b> [July 2022] </b> Chair and organise an in-person talk by [Nicolas Papernot](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate](https://www.papernot.fr) at Turing AI Programme.
+- <b> [July 2022] </b> Chair and organise an in-person talk by [Nicolas Papernot](https://www.papernot.fr) at Turing AI Programme.
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
 - <b> [December 2021] </b> A new preprint on privacy attack, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
