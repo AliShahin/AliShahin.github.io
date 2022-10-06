@@ -1,14 +1,69 @@
----
-title: "Providing Occupancy as a Service with Databox"
-collection: publications
-permalink: /publication/2018-11-1-Providing Occupancy as a Service with Databox
-excerpt: 'Occupancy modelling for efficient energy management of indoor spaces has gained significant recent attention. Unfortunately, many such models rely on copying sensor data to the cloud for third-party services to process, creating risks of privacy breach. Such matters have become particularly pertinent for companies handling data of EU citizens due to provisions of the General Data Protection Regulation (GDPR). In this paper we present an implementation of Occupancy-as-a-Service (OaaS) at the edge, inverting the usual model: rather than ship data to the cloud to be processed, we retain data where it is generated and compute on it locally. This effectively avoids many risks associated with moving personal data to the cloud, and increases the agency of data subjects in managing their personal data. We describe the Databox architecture, its core components, and the OaaS functionality. As well as improving the privacy of the occupants, our approach allows us to offer occupancy data to other applications running on Databox, at a granularity that is not constrained by network usage, storage or processing restrictions imposed by third-party services, but is under data subject control.'
-date: 2018-11-04
-venue: 'ACM International Workshop on Smart Cities and Fog Computing (CitiFog)'
-paperurl: 'https://haddadi.github.io/papers/citifog18-final7.pdf'
-citation: 'Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi. &quot;Providing Occupancy as a Service with Databox.&quot; <i> The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog),</i> November 4, 2018, Shenzhen, China.'
----
-Occupancy modelling for efficient energy management of indoor spaces has gained significant recent attention. Unfortunately, many such models rely on copying sensor data to the cloud for third-party services to process, creating risks of privacy breach. Such matters have become particularly pertinent for companies handling data of EU citizens due to provisions of the General Data Protection Regulation (GDPR). In this paper we present an implementation of Occupancy-as-a-Service (OaaS) at the edge, inverting the usual model: rather than ship data to the cloud to be processed, we retain data where it is generated and compute on it locally. This effectively avoids many risks associated with moving personal data to the cloud, and increases the agency of data subjects in managing their personal data. We describe the Databox architecture, its core components, and the OaaS functionality. As well as improving the privacy of the occupants, our approach allows us to offer occupancy data to other applications running on Databox, at a granularity that is not constrained by network usage, storage or processing restrictions imposed by third-party services, but is under data subject control.
++++
+title = "A publication title, such as title of a paper"
 
-[Download paper here](https://haddadi.github.io/papers/citifog18-final7.pdf)
+# Date first published.
+date = "2013-07-01"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["First author's name", "Second author's name"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
+publication_short = "In *ICA*"
+
+# Abstract and optional shortened version.
+abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+abstract_short = "A short version of the abstract."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = []
+
+# Links (optional).
+url_pdf = "pdf/my-paper-name.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption 😄"
+
++++
 
