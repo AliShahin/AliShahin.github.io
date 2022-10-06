@@ -1,4 +1,4 @@
-+++
+---
 title = "A publication title, such as title of a paper"
 
 # Date first published.
@@ -65,5 +65,5 @@ highlight = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
 
-+++
+---
 
