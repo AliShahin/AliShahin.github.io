@@ -35,10 +35,7 @@ Work experience
   * Project: Privacy-aware neural network classification & training
   * Goal: To invent new encrypted methods for neural network training and classification
   * Supervisors: Matt Kusner, Adria Gascon, Varun Kanade
-* 2017: Research Assistant
-  * Sharif University of Technology in Digital Media Lab (DML)
-  * Duties included: Privacy-Preserving in Deep Learning
-  * Supervisor: Hamid Reza Rabiee
+
 
   
 Skills
