@@ -29,7 +29,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - <b> [July 2022] </b> Chair and organise [Nicolas Papernot](https://www.papernot.fr) in-person talk at Turing AI Programme.
 - <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
-- <b> [December 2021] </b> A new preprint on privacy attack, called [WHEN THE CURIOUS ABANDON HONESTY: FEDERATED LEARNING IS NOT PRIVATE](https://arxiv.org/pdf/2112.02918.pdf).
+- <b> [December 2021] </b> A new preprint on federated learning privacy attack, called [When the Curious Abandon Honesty: Federated Learning Is Not Private](https://arxiv.org/pdf/2112.02918.pdf).
 - <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
 - <b> [August 2021] </b> Paper accepted at IEEE Transactions on Image Processing [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), called [Semantically Adversarial Learnable Filters](https://arxiv.org/pdf/2008.06069.pdf), [<font color="blue">Code</font>](https://github.com/AliShahin/FilterFool)!
 - <b> [March 2021] </b> Successfully passed PhD viva!
