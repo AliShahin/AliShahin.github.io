@@ -28,7 +28,6 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - <b> [September 2022] </b> 2 papers accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) and [Private Multi-Winner Voting for Machine Learning](https://alishahin.github.io).
 - <b> [August 2022] </b> Chair and organise [Olya Ohrimenko](https://scholar.google.com/citations?hl=en&user=lzfVm_8AAAAJ&view_op=list_works&sortby=pubdate) in-person talk at Turing AI Programme.
 - <b> [July 2022] </b> Chair and organise [Nicolas Papernot](https://www.papernot.fr) in-person talk at Turing AI Programme.
-- <b> [March 2022] </b> A new preprint on private GNNs, called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf).
 - <b> [January 2022] </b> Paper accepted at the 10th International Conference on Learning Representations [ICLR](https://iclr.cc), called [A Zest of LIME: Towards Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/Zest-Model-Distance).
 - <b> [December 2021] </b> A new preprint on federated learning privacy attack, called [When the Curious Abandon Honesty: Federated Learning Is Not Private](https://arxiv.org/pdf/2112.02918.pdf).
 - <b> [November 2021] </b> Started as a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/).
@@ -58,6 +57,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Talks
+- 11/2022 - University of Cambridge and Samsung
 - 10/2022 - Queen's University of Belfast
 - 09/2022 - Information Commissioner’s Office
 - 09/2022 - Brave
