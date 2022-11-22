@@ -22,6 +22,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
+- <b> [November 2022] </b> 2 papers accepted at the 32nd [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity23), called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf) and [Tubes Among US: Analog Attack on Automatic Speaker Identification](https://alishahin.github.io).
 - <b> [November 2022] </b> Co-organizing the Privacy Preserving Machine Learning [PPML'2022](https://ppml-workshop.github.io/ppml22/) workshop co-located with [FOCS'2022](https://focs2022.eecs.berkeley.edu).
 - <b> [September 2022] </b> Paper accepted at the 36th Conference on Neural Information Processing Systems [NeurIPS](https://neurips.cc), called [Washing The Unwashable: On The (Im)possibility of Fairwashing Detection](https://nips.cc/Conferences/2022/Schedule?showEvent=54741), [<font color="blue">Code</font>](https://github.com/cleverhans-lab/FRAUD-Detect).
 - <b> [September 2022] </b> 2 papers accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) and [Private Multi-Winner Voting for Machine Learning](https://alishahin.github.io).
