@@ -6,5 +6,3 @@ excerpt: '<i class="fa fa-file-pdf-o" style="color:red"></i>[<font color="red">P
 date: 2018-02-13
 venue: '25th IEEE International Conference on Image Processing <b> (ICIP)</b>'
 ---
-
-
