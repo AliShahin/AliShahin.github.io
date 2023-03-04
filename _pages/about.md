@@ -60,7 +60,8 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Talks
-- 11/2022 - University of Cambridge and Samsung
-- 10/2022 - Queen's University of Belfast
-- 09/2022 - Information Commissioner’s Office
-- 09/2022 - Brave
+- 03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning 
+- 11/2022 - University of Cambridge and Samsung  
+- 10/2022 - Queen's University of Belfast  
+- 09/2022 - Information Commissioner’s Office  
+- 09/2022 - Brave 
