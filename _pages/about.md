@@ -23,6 +23,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
+- <b> [March 2023] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Losing Less: A Loss for Differentially Private Deep Learning](https://alishahin.github.io).
 - <b> [March 2023] </b> Organising AI UK 2023 workshop, [Privacy and Fairness in AI for Health](https://private-fair-ai.github.io).
 - <b> [January 2023] </b> Paper accepted at the 11th International Conference on Learning Representations [ICLR](https://iclr.cc), called [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD). <span style="background-color:red"><font color="white"> notable top 5% of accepted papers </font></span>
 - <b> [November 2022] </b> 2 papers accepted at the 32nd [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity23), called [GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation](https://arxiv.org/pdf/2203.00949.pdf) and [Tubes Among US: Analog Attack on Automatic Speaker Identification](https://alishahin.github.io).
@@ -60,6 +61,8 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Talks
+- 04/2023 - Northwestern University -- How can we audit Fairness of AI-driven services provided by companies?
+- 03/2023 - AIUK 2023
 - 03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning 
 - 11/2022 - University of Cambridge and Samsung  
 - 10/2022 - Queen's University of Belfast  
