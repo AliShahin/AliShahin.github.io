@@ -54,6 +54,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - <b> [March 2018] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk), working on project [Privacy-aware neural network classification & training](https://aticdn.s3-eu-west-1.amazonaws.com/2017/12/Internship-Project-Descriptions-2018-FINAL-WC.pdf) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
 
 ## PC services 
+- 2024: NeurIPS’2024, PETs’2024
 - 2023: CCS'2023, AISTATS'2023
 - 2022: ICML'2022, TIFS'2022, TOPS'2022, [Explainable AI in Finance](https://sites.google.com/view/2022-workshop-explainable-ai/) 
 - 2021: ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io)
