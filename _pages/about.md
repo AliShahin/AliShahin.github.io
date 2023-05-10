@@ -23,6 +23,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
+- <b> [May 2023] </b> Paper accepted at the 39th Conference on Uncertainty in Artificial Intelligence [UAI](https://www.auai.org/uai2023/), called Mnemonist: Locating Model Parameters that Memorize Training Examples. [Join work between DeepMind and the Alan Turing Institute]
 - <b> [March 2023] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Losing Less: A Loss for Differentially Private Deep Learning](https://alishahin.github.io).
 - <b> [March 2023] </b> Organising AI UK 2023 workshop, [Privacy and Fairness in AI for Health](https://private-fair-ai.github.io).
 - <b> [January 2023] </b> Paper accepted at the 11th International Conference on Learning Representations [ICLR](https://iclr.cc), called [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD). <span style="background-color:red"><font color="white"> notable top 5% of accepted papers </font></span>
