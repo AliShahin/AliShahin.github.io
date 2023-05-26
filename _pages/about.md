@@ -63,6 +63,8 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Talks
+- 05/2023 - [Workshop on Algorithmic Audits of Algorithms](https://algorithmic-audits.github.io) 
+- 05/2023 - Intel
 - 04/2023 - Northwestern University -- How can we audit Fairness of AI-driven services provided by companies?
 - 03/2023 - AIUK 2023
 - 03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning 
