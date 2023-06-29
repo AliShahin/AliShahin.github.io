@@ -16,9 +16,9 @@ I have received a PhD in Computer Science from the Queen Mary University of Lond
 I love to explore the intersection of Machine Learning, Privacy, Fairness, Security, Explanation and and Image/Audio Processing!<br />
 My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. My research interests and recent works include:
 - Auditing (see [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD), [FRAUD-Detect](https://openreview.net/pdf?id=3vmKQUctNy) and [Zest](https://openreview.net/forum?id=OUz_9TiTv9j))
+- Privacy attacks (see [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY), [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
 - Designing machine learning models tailored to privacy enhancement technologies (see [QUOTIENT](https://arxiv.org/pdf/1907.03372) and [PrivEdge](https://arxiv.org/pdf/2004.05574))
 - Differential privacy for images/audios and graphs (see [DPspeech](https://arxiv.org/pdf/2202.11823.pdf), [GAP](https://arxiv.org/pdf/2203.00949.pdf))
-- Privacy attacks (see [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
 - Designing adversarial examples by considering image/audio semantics (see [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf))
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
