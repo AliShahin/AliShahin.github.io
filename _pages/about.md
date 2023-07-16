@@ -22,7 +22,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
-- <b> [July 2021] </b> Presented 2 papers at [PETS2023](https://petsymposium.org/2023/): [Differentially Private Speaker Anonymization](https://petsymposium.org/popets/2023/popets-2023-0007.pdf) and [Losing Less: A Loss for Differentially Private Deep Learning](https://petsymposium.org/popets/2023/popets-2023-0083.pdf)!
+- <b> [July 2021] </b> Presented 2 papers at [PETS2023](https://petsymposium.org/2023/): [Differentially Private Speaker Anonymization](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view?usp=share_link) and [Losing Less: A Loss for Differentially Private Deep Learning](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view?usp=share_link)!
 - <b> [July 2021] </b> Started as a Privacy Researcher at [Brave Software](https://brave.com)!
 - <b> [May 2023] </b> Paper accepted at the 39th Conference on Uncertainty in Artificial Intelligence [UAI](https://www.auai.org/uai2023/), called [Mnemonist: Locating Model Parameters that Memorize Training Examples](https://openreview.net/pdf?id=oVn5GLyONY). 
 - <b> [March 2023] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Losing Less: A Loss for Differentially Private Deep Learning](https://petsymposium.org/popets/2023/popets-2023-0083.pdf).
