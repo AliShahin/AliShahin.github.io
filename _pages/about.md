@@ -66,12 +66,22 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Talks
+- 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
+- 06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Video</font>](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view)
+- 06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Video</font>](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view)
+- 05/2023 - ICLR 2023 conference -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2023/poster/11224)
 - 05/2023 - [Workshop on Algorithmic Audits of Algorithms](https://algorithmic-audits.github.io) 
 - 05/2023 - Intel
 - 04/2023 - Northwestern University -- How can we audit Fairness of AI-driven services provided by companies?
-- 03/2023 - AIUK 2023 <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?app=desktop&v=np6-cSckPV4&t=2364s)
+- 03/2023 - AIUK 2023 -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?app=desktop&v=np6-cSckPV4&t=2364s)
 - 03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning 
+- 11/2022 - NeurIPS 2022 conference -- Washing The Unwashable : On The (Im)possibility of Fairwashing Detection <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://neurips.cc/virtual/2022/poster/54741)
 - 11/2022 - University of Cambridge and Samsung  
 - 10/2022 - Queen's University of Belfast  
 - 09/2022 - Information Commissioner’s Office  
-- 09/2022 - Brave 
+- 09/2022 - Brave
+- 06/2020 - CVPR 2020 conference -- ColorFool: Semantic Adversarial Colorization <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=fGw1ZiqOrWo)
+- 05/2020 - ACM Multimedia 2020 -- A tutorial on Deep Learning for Privacy in Multimedia <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://cis.eecs.qmul.ac.uk/pdfs/2020.10.12__DeepLearningForPrivacyInMultimedia_Part2.pdf)
+- 05/2020 - ICASSP 2020 conference -- EdgeFool: An Adversarial Image Enhancement Filter <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=jzoo5USTUSs&t=1s)
+- 06/2018 - The Alan Turing Institute -- Privacy-Aware Neural Network Classification & Training -- <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=pJtw6IRo9q4)
+- 06/2018 - QMUL summer school -- Distribute One-Class Learning <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=9w_TP8iwpxI)
