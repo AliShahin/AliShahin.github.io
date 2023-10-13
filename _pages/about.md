@@ -23,10 +23,10 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 ## News
 - <b> [September 2023] </b> A new preprint on LLMs and privacy, called [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf).
-- <b> [July 2021] </b> Recieved Best Reviewers Free Registration award from [FL@ICML](https://fl-icml2023.github.io/)!
-- <b> [July 2021] </b> Our project [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD) is selected as Turing's top 10 projects of 2022-2023, see [Pioneering New Approaches to Verifying the Fairness of AI Models](https://t.co/I2b4PUPkbs)!
-- <b> [July 2021] </b> Presented 2 papers at [PETS2023](https://petsymposium.org/2023/): [Differentially Private Speaker Anonymization](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view?usp=share_link) and [Losing Less: A Loss for Differentially Private Deep Learning](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view?usp=share_link)!
-- <b> [July 2021] </b> Started as a Privacy Researcher at [Brave Software](https://brave.com)!
+- <b> [July 2023] </b> Recieved Best Reviewers Free Registration award from [FL@ICML](https://fl-icml2023.github.io/)!
+- <b> [July 2023] </b> Our project [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD) is selected as Turing's top 10 projects of 2022-2023, see [Pioneering New Approaches to Verifying the Fairness of AI Models](https://t.co/I2b4PUPkbs)!
+- <b> [July 2023] </b> Presented 2 papers at [PETS2023](https://petsymposium.org/2023/): [Differentially Private Speaker Anonymization](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view?usp=share_link) and [Losing Less: A Loss for Differentially Private Deep Learning](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view?usp=share_link)!
+- <b> [July 2023] </b> Started as a Privacy Researcher at [Brave Software](https://brave.com)!
 - <b> [May 2023] </b> Paper accepted at the 39th Conference on Uncertainty in Artificial Intelligence [UAI](https://www.auai.org/uai2023/), called [Mnemonist: Locating Model Parameters that Memorize Training Examples](https://openreview.net/pdf?id=oVn5GLyONY). 
 - <b> [March 2023] </b> Paper accepted at the 23rd Privacy Enhancing Technologies symposium [PETs](https://petsymposium.org/index.php), called [Losing Less: A Loss for Differentially Private Deep Learning](https://petsymposium.org/popets/2023/popets-2023-0083.pdf).
 - <b> [March 2023] </b> Organising AI UK 2023 workshop, [Privacy and Fairness in AI for Health](https://private-fair-ai.github.io).
