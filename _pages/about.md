@@ -68,8 +68,8 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 ## Talks
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
-- 06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view)
-- 06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view)
+- 06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=Eet3AJeqTEY)
+- 06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=uvc49vW-UUI)
 - 05/2023 - ICLR 2023 conference -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2023/poster/11224)
 - 05/2023 - [Workshop on Algorithmic Audits of Algorithms](https://algorithmic-audits.github.io) 
 - 05/2023 - Intel
