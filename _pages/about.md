@@ -11,12 +11,7 @@ redirect_from:
 This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Privacy Researcher at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Associate at the [The Alan Turing Institute](https://www.turing.ac.uk) under supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr).
 I have received a PhD in Computer Science from the Queen Mary University of London. During my PhD, I did internships at Inria (with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) and [Emmanuel Vincent](https://members.loria.fr/EVincent/) on the intersection of differential privacy and audio) and The Alan Turing Institute (with [Adria Gascon](https://www.lsi.upc.edu/~agascon/) and [Matt Kusner](https://mkusner.github.io) on the intersection of multi-party computation and machine learning). I was also a PhD visitor at Imperial College London working with [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi). 
 
-## Research Talks
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Research 
 I love to help Machine Learning and Artificial Intelligence to be Trustworthy, Auditable, Responsible, Secure and Safe!<br />
@@ -72,6 +67,13 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - 2021: ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io)
 - 2020: ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
 
+
+## Selected Research Talks
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Talks
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
