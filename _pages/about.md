@@ -81,6 +81,12 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 <iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" 
   frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
 </iframe>
+<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>
+<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>  
 </figure>
 
 ## Talks
