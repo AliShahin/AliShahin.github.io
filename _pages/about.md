@@ -69,11 +69,11 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Selected Research Talks
+<figure class="third">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
 
 ## Talks
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
