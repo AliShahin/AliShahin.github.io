@@ -14,7 +14,7 @@ I have received a PhD in Computer Science from the Queen Mary University of Lond
 
 
 ## Research 
-I love to help Machine Learning and Artificial Intelligence to be Trustworthy, Auditable, Responsible, Secure and Safe!<br />
+My research interests lie in identifying and mitigating the potential risks stemming from the use of AI in high-stake decision systems to unleash the full potential of AI while safeguarding our fundamental values and keeping us safe and secure. In particular, I i) identify failure modes for AI systems by attacking them in terms of privacy, fairness and robustness; ii) mitigate these emerging risks by designing secure and trustworthy (privacy-preserving, robust, fair and explainable) AI to be deployed by institutions as well as building confidential and reliable auditing frameworks that can be used by the public to audit the trustworthiness of AI-driven services provided by institutions. <br />
 My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. My research interests and recent works include:
 - Auditing (see [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD), [FRAUD-Detect](https://openreview.net/pdf?id=3vmKQUctNy) and [Zest](https://openreview.net/forum?id=OUz_9TiTv9j))
 - Privacy attacks (see [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY), [trap weights](https://arxiv.org/pdf/2112.02918.pdf))
