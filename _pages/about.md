@@ -24,7 +24,7 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 - Data privacy and edge computing (see [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf))
 
 ## News
-- <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://alishahin.github.io/). <span style="background-color:red"><font color="white"> spotlight </font></span>
+- <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR2024](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://alishahin.github.io/). <span style="background-color:red"><font color="white"> spotlight </font></span>
 - <b> [September 2023] </b> A new preprint on LLMs and privacy, called [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf).
 - <b> [July 2023] </b> Recieved Best Reviewers Free Registration award from [FL@ICML](https://fl-icml2023.github.io/)!
 - <b> [July 2023] </b> Our project [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD) is selected as Turing's top 10 projects of 2022-2023, see [Pioneering New Approaches to Verifying the Fairness of AI Models](https://t.co/I2b4PUPkbs)!
