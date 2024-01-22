@@ -67,27 +67,25 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Selected Research Talks
-<div class="row mb-3">
-            <div class="col-sm-4">
-              <div align="center"><b>Randomization in Trustworthy ML</b></div>
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/KtL5K_BXd0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-              </div>
-            </div>
-            <div class="col-sm-4">
-              <div align="center"><b>Trustworthy ML</b></div>
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/UpGgIqLhaqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-              </div>
-            </div>
-            <div class="col-sm-4">
-              <div align="center"><b>Deepfakes</b></div>
-              <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/qVEBmiWYm84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-              </div>
-            </div>
-             
-  </div>
+<figure class="third">
+<iframe 
+  src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>  
+<iframe 
+  src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>
+<iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>
+<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>
+<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" 
+  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+</iframe>  
+</figure>
 
 ## Talks
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
