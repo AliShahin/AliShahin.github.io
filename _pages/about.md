@@ -67,25 +67,28 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Selected Research Talks
-<figure class="third">
-<iframe 
-  src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>  
-<iframe 
-  src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>  
-</figure>
+<div class="row_video">
+    <div class="column_video">
+        <iframe 
+          src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" 
+          frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+        </iframe> 
+    </div>  
+
+   <div class="column_video">
+      <iframe 
+        src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" 
+        frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+      </iframe>
+   </div>  
+
+   <div class="column_video">
+      <iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" 
+        frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+      </iframe>
+   </div>   
+
+</div>
 
 ## Talks
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
