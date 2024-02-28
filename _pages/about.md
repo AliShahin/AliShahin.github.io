@@ -12,6 +12,9 @@ This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Privacy R
 
 Main blog posts I co-authored: [Verifiable differentially private ML](https://brave.com/confidential-dpproof/) and [Privacy risks in Federated Learning](https://www.cleverhans.io/2022/04/17/fl-privacy.html).
 
+My research has been cited in the press including [Thurrott](https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately) and [TuringTop10](https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf).
+
+
 ## Research 
 My research interests lie in identifying and mitigating the potential risks stemming from the use of AI in high-stake decision systems to unleash the full potential of AI while safeguarding our fundamental values and keeping us safe and secure. In particular, I 
 1. identify failure modes for AI systems by attacking them in terms of privacy ([Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY), [Trap weights](https://arxiv.org/pdf/2112.02918.pdf)), fairness ([Fairwashing](https://openreview.net/pdf?id=3vmKQUctNy)) and security/safety ([ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf));
