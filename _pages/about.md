@@ -23,6 +23,12 @@ My research interests lie in identifying and mitigating the potential risks stem
 
 My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
 
+## Recent Students
+- [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024)
+- [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024)
+- [Victoria Smith](https://v-smith.github.io/): Alan Turing Institute PhD Enrichment Student (Fall 2022 - Fall 2023)
+
+
 ## News
 - <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR2024](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://alishahin.github.io/). <span style="background-color:red"><font color="white"> spotlight </font></span>
 - <b> [September 2023] </b> A new preprint on LLMs and privacy, called [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf).
