@@ -23,6 +23,11 @@ My research interests lie in identifying and mitigating the potential risks stem
 
 My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
 
+
+## Product
+I have joined Brave to leverage my research in creating products that prioritize user privacy, and contribute towards enhancing the privacy and security of millions of users worldwide. Stay tuned for exciting developments!
+
+
 ## Recent Students
 - [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024)
