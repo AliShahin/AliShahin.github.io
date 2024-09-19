@@ -25,7 +25,14 @@ My research has been published at top-tier conferences including NeurIPS, ICLR, 
 
 
 ## Product
-I have joined Brave to leverage my research in creating products that prioritize user privacy, and contribute towards enhancing the privacy and security of millions of users worldwide. Stay tuned for exciting developments!
+I have joined Brave to leverage my research in creating products that prioritize user privacy, and contribute towards enhancing the privacy and security of millions of users worldwide.
+
+I am thrilled to announce the launch of my first-ever privacy-preserving product, [Nebula](https://brave.com/blog/nebula/)—a practical system for differentially private histogram estimation of data distributed among users!
+
+Nebula puts user first in product analytics:
+1. Formal Differential Privacy Protection
+2. Auditability, Verifiability, and Transparency
+3. Efficiency with Minimal Impact
 
 
 ## Recent Students
