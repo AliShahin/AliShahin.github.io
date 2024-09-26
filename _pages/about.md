@@ -36,12 +36,17 @@ Nebula puts user first in product analytics:
 
 
 ## Recent Students
-- [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024)
+- [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
+against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024)
-- [Victoria Smith](https://v-smith.github.io/): Alan Turing Institute PhD Enrichment Student (Fall 2022 - Fall 2023)
+- [Victoria Smith](https://v-smith.github.io/): Alan Turing Institute PhD Enrichment Student (Fall 2022 - Fall 2023), Project: [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf)
 
 
 ## News
+- <b> [September 2024] </b> A new preprint on LLMs and privacy, called [Context-Aware Membership Inference Attacks
+against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
+- <b> [September 2024] </b> My first-ever privacy-preserving product, [Differentially private data collection](https://brave.com/blog/nebula/).
+- <b> [September 2024] </b> A new preprint on differential privacy and telemetry data, called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).
 - <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR2024](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://alishahin.github.io/). <span style="background-color:red"><font color="white"> spotlight </font></span>
 - <b> [September 2023] </b> A new preprint on LLMs and privacy, called [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf).
 - <b> [July 2023] </b> Recieved Best Reviewers Free Registration award from [FL@ICML](https://fl-icml2023.github.io/)!
