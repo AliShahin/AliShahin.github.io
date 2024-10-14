@@ -114,6 +114,7 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 </figure>
 
 ## Talks
+- 05/2024 - ICLR 2024 conference -- Confidential-DPproof: Confidential Proof of Differentially Private Training <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2024/poster/18707)
 - 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
 - 06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=Eet3AJeqTEY)
 - 06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=uvc49vW-UUI)
