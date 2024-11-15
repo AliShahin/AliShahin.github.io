@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="background-color:red"><font color="white"> Hiring [interns](https://brave.com/careers/?gh_jid=6379517), feel free to drop me an email highlighting your 3 most significant publications! </font></span>
+<span style="background-color:red"><font color="white"> Hiring interns, feel free to drop me an email highlighting your 3 most significant publications! </font></span>
 
 This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am an AI Privacy Researcher at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
 
