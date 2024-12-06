@@ -47,7 +47,7 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 ## News
 - <b> [November 2024] </b> Gave a guest lecture at Imperial College London: [Collecting Speech and Telemetry Data Privately](https://drive.google.com/file/d/1mgXaNLjRpWKS7KQioawO4xiBG_iqYgmE/view?usp=sharing).
 - <b> [October 2024] </b> Gave a research talk at Google TechTalk: [Beyond Trust:
-Fairness and Privacy in Machine Learning](https://drive.google.com/file/d/1i8MSiDQ6Uvyvx0H56fqaNf0kNefERfSr/view?usp=sharing).
+Proving Fairness and Privacy in Machine Learning](https://drive.google.com/file/d/1i8MSiDQ6Uvyvx0H56fqaNf0kNefERfSr/view?usp=sharing).
 - <b> [September 2024] </b> A new preprint on LLMs and privacy, called [Context-Aware Membership Inference Attacks
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - <b> [September 2024] </b> My first-ever privacy-preserving product, [Differentially private data collection](https://brave.com/blog/nebula/).
