@@ -38,7 +38,6 @@ Nebula puts user first in product analytics:
 
 
 ## Recent Students
-- 
 - [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024), Project: [OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness](https://arxiv.org/pdf/2410.02777)
