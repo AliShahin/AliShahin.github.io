@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="background-color:red"><font color="white"> Hiring interns, feel free to drop me an email highlighting your 3 most significant publications! </font></span>
 
-This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior AI Privacy Researcher at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
+This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Research Scientist at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Associate at [The Alan Turing Institute](https://www.turing.ac.uk) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
 
 Main blog posts I co-authored: [Differentially private data collection](https://brave.com/blog/nebula/), [Applying Zero Knowledge Proof in ML](https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2), [Verifiable differentially private ML](https://brave.com/confidential-dpproof/) and [Privacy risks in Federated Learning](https://www.cleverhans.io/2022/04/17/fl-privacy.html).
 
@@ -38,6 +38,7 @@ Nebula puts user first in product analytics:
 
 
 ## Recent Students
+- 
 - [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024), Project: [OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness](https://arxiv.org/pdf/2410.02777)
