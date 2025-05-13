@@ -45,6 +45,8 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 
 
 ## News
+- <b> [May 2025] </b> Paper accepted at the 32nd ACM Conference on Computer and Communications Security [CCS2025](https://www.sigsac.org/ccs/CCS2025/), called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).
+- <b> [April 2025] </b> Paper accepted at the 42nd International Conference on Machine Learning [ICML2025](https://icml.cc/), called [Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention](https://alishahin.github.io/).
 - <b> [November 2024] </b> Gave a guest lecture at Imperial College London: [Collecting Speech and Telemetry Data Privately](https://drive.google.com/file/d/1mgXaNLjRpWKS7KQioawO4xiBG_iqYgmE/view?usp=sharing).
 - <b> [October 2024] </b> Gave a research talk at Google TechTalk: [Beyond Trust:
 Proving Fairness and Privacy in Machine Learning](https://drive.google.com/file/d/1i8MSiDQ6Uvyvx0H56fqaNf0kNefERfSr/view?usp=sharing).
@@ -52,7 +54,7 @@ Proving Fairness and Privacy in Machine Learning](https://drive.google.com/file/
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - <b> [September 2024] </b> My first-ever privacy-preserving product, [Differentially private data collection](https://brave.com/blog/nebula/).
 - <b> [September 2024] </b> A new preprint on differential privacy and telemetry data, called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).
-- <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR2024](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://alishahin.github.io/). <span style="background-color:red"><font color="white"> spotlight </font></span>
+- <b> [January 2024] </b> Paper accepted at the 12th International Conference on Learning Representations [ICLR2024](https://iclr.cc), called [Confidential-DPproof: Confidential Proof of Differentially Private Training](https://hal.science/hal-04610635/document). <span style="background-color:red"><font color="white"> spotlight </font></span>
 - <b> [September 2023] </b> A new preprint on LLMs and privacy, called [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf).
 - <b> [July 2023] </b> Recieved Best Reviewers Free Registration award from [FL@ICML](https://fl-icml2023.github.io/)!
 - <b> [July 2023] </b> Our project [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/forum?id=iIfDQVyuFD) is selected as Turing's top 10 projects of 2022-2023, see [Pioneering New Approaches to Verifying the Fairness of AI Models](https://t.co/I2b4PUPkbs)!
