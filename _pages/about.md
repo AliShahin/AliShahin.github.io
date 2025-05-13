@@ -17,24 +17,19 @@ Main blog posts I co-authored: [Differentially private data collection](https://
 My research has been cited in the press including [Thurrott](https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately) and [TuringTop10](https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf).
 
 
-## Research 
+## Research
 My research interests lie in identifying and mitigating the potential risks stemming from the use of AI in high-stake decision systems to unleash the full potential of AI while safeguarding our fundamental values and keeping us safe and secure. In particular, I 
 1. identify failure modes for AI systems by attacking them in terms of privacy ([CAMIA](https://arxiv.org/pdf/2409.13745), [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY), [Trap weights](https://arxiv.org/pdf/2112.02918.pdf)), fairness ([Fairwashing](https://openreview.net/pdf?id=3vmKQUctNy)) and security/safety ([ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf));
 2. mitigate these emerging risks by designing secure and trustworthy (privacy-preserving, robust, fair and explainable) AI to be deployed by institutions ([Losing Less](https://petsymposium.org/popets/2023/popets-2023-0083.pdf), [QUOTIENT](https://arxiv.org/pdf/1907.03372), [DPspeech](https://arxiv.org/pdf/2202.11823.pdf), [GAP](https://arxiv.org/pdf/2203.00949.pdf), [DarkneTZ](https://arxiv.org/pdf/2004.05703) and [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf) and [PrivEdge](https://arxiv.org/pdf/2004.05574)); 
 3. build confidential and reliable auditing frameworks that can be used by the public to audit the trustworthiness of AI-driven services provided by institutions ([Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe), [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD), [OATH](https://arxiv.org/pdf/2410.02777), and [Zest](https://openreview.net/forum?id=OUz_9TiTv9j)). <br />
 
-My research has been published at top-tier conferences including NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
+My research has been published at top-tier conferences including ICML, NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
 
 
 ## Product
-I have joined Brave to leverage my research in creating products that prioritize user privacy, and contribute towards enhancing the privacy and security of millions of users worldwide.
+I have joined Brave to leverage my research in creating products that prioritise user privacy, and contribute towards enhancing the privacy and security of millions of users in the agentic networks.
 
-I am thrilled to announce the launch of my first-ever privacy-preserving product, [Nebula](https://brave.com/blog/nebula/)—a practical system for differentially private histogram estimation of data distributed among users!
-
-Nebula puts user first in product analytics:
-1. Formal Differential Privacy Protection
-2. Auditability, Verifiability, and Transparency
-3. Efficiency with Minimal Impact
+I am thrilled to announce the launch of my first-ever privacy-preserving product, [Nebula](https://brave.com/blog/nebula/)—a practical system for differentially private histogram estimation of data distributed among users! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
 
 
 ## Recent Students
