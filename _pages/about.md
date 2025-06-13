@@ -23,7 +23,9 @@ My research has been cited in the press including [Thurrott](https://www.thurrot
 
 ## Research
 
-My research initiates a fundamental question: <b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
+My research initiates a fundamental question: 
+
+<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice
 - [Confidential Guardian](https://arxiv.org/pdf/2505.23968) [ICML'2025], [Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe) [ICLR'2024], [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD) [ICLR'2023], [Zest](https://openreview.net/forum?id=OUz_9TiTv9j) [ICLR'2022], [OATH](https://arxiv.org/pdf/2410.02777) [Arxiv].
