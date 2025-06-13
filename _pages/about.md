@@ -26,27 +26,16 @@ My research has been cited in the press including [Thurrott](https://www.thurrot
 My research initiates a fundamental question: </b>How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior.<b> 
 
 ### Verifiable Trustworthiness of AI in Practice
-- [Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe)
-- [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD)
-- [Confidential Guardian](https://arxiv.org/pdf/2505.23968)
-- [OATH](https://arxiv.org/pdf/2410.02777)
-- [Zest](https://openreview.net/forum?id=OUz_9TiTv9j)).
+- [Confidential Guardian](https://arxiv.org/pdf/2505.23968) [ICML'2025], [Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe) [ICLR'2024], [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD) [ICLR'2023], [Zest](https://openreview.net/forum?id=OUz_9TiTv9j) [ICLR'2022], [OATH](https://arxiv.org/pdf/2410.02777) [Arxiv].
 
 ### Identifying failure modes for AI systems
-- [CAMIA](https://arxiv.org/pdf/2409.13745)
-- [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY)
-- [Trap weights](https://arxiv.org/pdf/2112.02918.pdf))
-- [Fairwashing](https://openreview.net/pdf?id=3vmKQUctNy))
-- [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf), [Mystique](https://arxiv.org/pdf/2202.02751.pdf), [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf), [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf)
+- Privacy Attacks: [CAMIA](https://arxiv.org/pdf/2409.13745) [Arxiv], [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY) [UAI'2023], [Trap weights](https://arxiv.org/pdf/2112.02918.pdf) [Euro S&P'2023]
+- Fairness Attacks: [Fairwashing](https://openreview.net/pdf?id=3vmKQUctNy) [NeurIPS'2022]
+- Robustness Attacks: [ColorFool](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf) [CVPR'2020], [Mystique](https://arxiv.org/pdf/2202.02751.pdf) [USENIX'2022], [EdgeFool](https://arxiv.org/pdf/1910.12227.pdf) [ICASSP'2020], [FilterFool](https://arxiv.org/pdf/2008.06069.pdf) [TIP'2022] and [FoolHD](https://arxiv.org/pdf/2011.08483.pdf) [ICASSP'2021]
 
 ### Secure and privacy-preserving (by design) AI 
-- [Losing Less](https://petsymposium.org/popets/2023/popets-2023-0083.pdf)
-- [QUOTIENT](https://arxiv.org/pdf/1907.03372)
-- [DPspeech](https://arxiv.org/pdf/2202.11823.pdf)
-- [GAP](https://arxiv.org/pdf/2203.00949.pdf)
-- [DarkneTZ](https://arxiv.org/pdf/2004.05703)
-- [Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf)
-- [PrivEdge](https://arxiv.org/pdf/2004.05574))
+- [A Loss for Differentially Private Deep Learning](https://petsymposium.org/popets/2023/popets-2023-0083.pdf) [PETS'2023], [Differentially Private Speaker Anonymization](https://arxiv.org/pdf/2202.11823.pdf) [PETS'2023], [Diﬀerentially Private Graph Neural Networks](https://arxiv.org/pdf/2203.00949.pdf) [USENIX'2022]
+- [Two-Party Secure Neural Network Training and Prediction](https://arxiv.org/pdf/1907.03372) [CCS'2019], [Model Privacy at the Edge using Trusted Execution Environments](https://arxiv.org/pdf/2004.05703) [MobiSys'2020], [Deep Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf), [From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574) [TIFS'2020]
 
 
 My research has been published at top-tier conferences including ICML, NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
