@@ -24,7 +24,6 @@ My research has been cited in the press including [Thurrott](https://www.thurrot
 ## Research
 
 My research initiates a fundamental question: 
-
 <b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice
