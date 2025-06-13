@@ -26,9 +26,7 @@ redirect_from:
 </p>
 
 
-This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Research Scientist at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Scientist at [The Alan Turing Institute](https://www.turing.ac.uk) (Safe and Ethical AI) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Andrea Cavallaro](https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
-
-## Blog Posts
+## Blog Posts and Press
 <ul>
   <li><a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Differentially private data collection</a></li>
   <li><a href="https://brave.com/confidential-dpproof/" style="color:#8e44ad;">Verifiable differentially private ML</a></li>
@@ -36,8 +34,15 @@ This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Re
   <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html" style="color:#8e44ad;">Privacy risks in Federated Learning</a></li>
 </ul>
 
-
-My research has been cited in the press including [Thurrott](https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately) and [TuringTop10](https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf).
+<p>
+  My research has been cited in the press including 
+  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately" style="color:#000000;">
+    Thurrott
+  </a> and 
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf" style="color:#000000;">
+    TuringTop10
+  </a>.
+</p>
 
 
 ## Research
