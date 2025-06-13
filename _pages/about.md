@@ -21,10 +21,6 @@ This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Re
 </ul>
 
 
-- [Verifiable differentially private ML](https://brave.com/confidential-dpproof/)
-- [Applying Zero Knowledge Proof in ML](https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2)
-- [Privacy risks in Federated Learning](https://www.cleverhans.io/2022/04/17/fl-privacy.html).
-
 My research has been cited in the press including [Thurrott](https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately) and [TuringTop10](https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf).
 
 
