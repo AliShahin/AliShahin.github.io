@@ -72,13 +72,13 @@ My research initiates a fundamental question:
   <li>Privacy-preserving:  
     <a href="https://petsymposium.org/popets/2023/popets-2023-0083.pdf" style="color:#8e44ad;">A Loss for Differentially Private Deep Learning</a> [PETS'2023], 
     <a href="https://arxiv.org/pdf/2202.11823.pdf" style="color:#8e44ad;">Differentially Private Speaker Anonymization</a> [PETS'2023], 
-    <a href="https://arxiv.org/pdf/2203.00949.pdf" style="color:#8e44ad;">Differentially Private Graph Neural Networks</a> [USENIX'2022]
+    <a href="https://arxiv.org/pdf/2203.00949.pdf" style="color:#8e44ad;">Differentially Private Graph Neural Networks</a> [USENIX'2022],
+    <a href="https://arxiv.org/pdf/1802.03151.pdf" style="color:#8e44ad;">Deep Private-Feature Extraction</a>
   </li>
   <li>Secure:  
     <a href="https://arxiv.org/pdf/1907.03372" style="color:#8e44ad;">Two-Party Secure Neural Network Training and Prediction</a> [CCS'2019], 
     <a href="https://arxiv.org/pdf/2004.05703" style="color:#8e44ad;">Model Privacy at the Edge using Trusted Execution Environments</a> [MobiSys'2020],  
-    <a href="https://arxiv.org/pdf/2004.05574" style="color:#8e44ad;">From Local to Distributed Private Training and Prediction</a> [TIFS'2020],
-    <a href="https://arxiv.org/pdf/1802.03151.pdf" style="color:#8e44ad;">Deep Private-Feature Extraction</a>
+    <a href="https://arxiv.org/pdf/2004.05574" style="color:#8e44ad;">From Local to Distributed Private Training and Prediction</a> [TIFS'2020]
   </li>
 </ul>
 
