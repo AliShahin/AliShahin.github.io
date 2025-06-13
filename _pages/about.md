@@ -38,7 +38,6 @@ My research initiates a fundamental question: <b> How can we reliably verify the
 - [Two-Party Secure Neural Network Training and Prediction](https://arxiv.org/pdf/1907.03372) [CCS'2019], [Model Privacy at the Edge using Trusted Execution Environments](https://arxiv.org/pdf/2004.05703) [MobiSys'2020], [Deep Private-Feature Extraction](https://arxiv.org/pdf/1802.03151.pdf), [From Local to Distributed Private Training and Prediction](https://arxiv.org/pdf/2004.05574) [TIFS'2020]
 
 
-My research has been published at top-tier conferences including ICML, NeurIPS, ICLR, CVPR, CCS, USENIX Security and PETs. 
 
 
 ## Product
