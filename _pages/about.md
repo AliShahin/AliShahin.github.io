@@ -10,6 +10,22 @@ redirect_from:
 
 <span style="background-color:red"><font color="white"> Hiring interns, feel free to drop me an email highlighting your 3 most significant publications! </font></span>
 
+<p>
+  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
+  <a href="https://brave.com" style="color:#000000;">Brave Software</a>. Before joining Brave Software, I was a Research Scientist at 
+  <a href="https://www.turing.ac.uk" style="color:#000000;">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
+  <a href="http://mlg.eng.cam.ac.uk/adrian/" style="color:#000000;">Adrian Weller</a>, and a Postdoctoral Fellow at 
+  <a href="https://vectorinstitute.ai" style="color:#000000;">Vector Institute</a> under the supervision of 
+  <a href="https://www.papernot.fr" style="color:#000000;">Nicolas Papernot</a>. During my PhD, I was very fortunate to work under 
+  <a href="http://researchers.lille.inria.fr/abellet/" style="color:#000000;">Aurélien Bellet</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate" style="color:#000000;">Andrea Cavallaro</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate" style="color:#000000;">Adria Gascon</a>, 
+  <a href="https://www.imperial.ac.uk/people/h.haddadi" style="color:#000000;">Hamed Haddadi</a>, 
+  <a href="https://mkusner.github.io" style="color:#000000;">Matt Kusner</a> and 
+  <a href="https://members.loria.fr/EVincent/" style="color:#000000;">Emmanuel Vincent</a>.
+</p>
+
+
 This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Research Scientist at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Scientist at [The Alan Turing Institute](https://www.turing.ac.uk) (Safe and Ethical AI) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Andrea Cavallaro](https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
 
 ## Blog Posts
