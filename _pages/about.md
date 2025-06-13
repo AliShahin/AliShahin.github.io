@@ -12,7 +12,11 @@ redirect_from:
 
 This is Dr Ali Shahin Shamsabadi (ashahinshamsabadi@brave.com)! I am a Senior Research Scientist at [Brave Software](https://brave.com). Before joining Brave Software, I was a Research Scientist at [The Alan Turing Institute](https://www.turing.ac.uk) (Safe and Ethical AI) under the supervision of [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), and a Postdoctoral Fellow at [Vector Institute](https://vectorinstitute.ai) under the supervision of [Nicolas Papernot](https://www.papernot.fr). During my PhD, I was very fortunate to work under [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Andrea Cavallaro](https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate), [Adria Gascon](https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate), [Hamed Haddadi](https://www.imperial.ac.uk/people/h.haddadi), [Matt Kusner](https://mkusner.github.io) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
 
-Main blog posts I co-authored: [Differentially private data collection](https://brave.com/blog/nebula/), [Applying Zero Knowledge Proof in ML](https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2), [Verifiable differentially private ML](https://brave.com/confidential-dpproof/) and [Privacy risks in Federated Learning](https://www.cleverhans.io/2022/04/17/fl-privacy.html).
+## Blog Posts
+- [Differentially private data collection](https://brave.com/blog/nebula/)
+- [Verifiable differentially private ML](https://brave.com/confidential-dpproof/)
+- [Applying Zero Knowledge Proof in ML](https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2)
+- [Privacy risks in Federated Learning](https://www.cleverhans.io/2022/04/17/fl-privacy.html).
 
 My research has been cited in the press including [Thurrott](https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately) and [TuringTop10](https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf).
 
