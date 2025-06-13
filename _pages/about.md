@@ -50,8 +50,18 @@ redirect_from:
 My research initiates a fundamental question: 
 <b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
-### Verifiable Trustworthiness of AI in Practice
-- [Confidential Guardian](https://arxiv.org/pdf/2505.23968) [ICML'2025], [Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe) [ICLR'2024], [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD) [ICLR'2023], [Zest](https://openreview.net/forum?id=OUz_9TiTv9j) [ICLR'2022], [OATH](https://arxiv.org/pdf/2410.02777) [Arxiv].
+### Verifiable Trustworthiness of AI in Practice 
+- Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
+- Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe" style="color:#8e44ad;">Confidential-DPproof</a> [ICLR'2024]
+- Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD" style="color:#8e44ad;">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777" style="color:#8e44ad;">OATH</a> [Arxiv]
+- <a href="https://openreview.net/forum?id=OUz_9TiTv9j" style="color:#8e44ad;">Architecture-Independent Model Distances [ICLR'2022]</a>
+
+
+
+- Verifiable Privacy: [Confidential-DPproof](https://openreview.net/pdf?id=PQY2v6VtGe) [ICLR'2024]
+- Verifiable Fairness: [Confidential-PROFITT](https://openreview.net/forum?id=iIfDQVyuFD) [ICLR'2023], [OATH](https://arxiv.org/pdf/2410.02777) [Arxiv]
+- Verifiable Uncertainty: [Confidential Guardian](https://arxiv.org/pdf/2505.23968) [ICML'2025]
+- [Architecture-Independent Model Distances](https://openreview.net/forum?id=OUz_9TiTv9j) [ICLR'2022].
 
 ### Identifying failure modes for AI systems
 - Privacy Attacks: [CAMIA](https://arxiv.org/pdf/2409.13745) [Arxiv], [Mnemonist](https://openreview.net/pdf?id=oVn5GLyONY) [UAI'2023], [Trap weights](https://arxiv.org/pdf/2112.02918.pdf) [Euro S&P'2023]
