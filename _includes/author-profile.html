@@ -38,7 +38,11 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}">
+          <!-- X (formerly Twitter) SVG icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="20" height="20" style="vertical-align:middle; margin-right:4px; fill:#111;"><path d="M1199.61 21.5H974.09L600.01 505.13 225.91 21.5H.39l464.6 606.6L0 1205.5h225.91l374.1-504.13 374.1 504.13h225.49l-464.6-577.4 464.61-606.6z"/></svg>
+          X
+        </a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
