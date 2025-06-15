@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <style>
 .main-content-with-sidebar {
   margin-left: 220px;
@@ -19,31 +29,6 @@
 </div>
 
 <div class="main-content-with-sidebar">
-
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<div style="position:fixed; left:0; top:100px; width:200px; background:#f8f8f8; padding:10px; border-right:1px solid #ddd; z-index:1000; height:80vh; overflow:auto;">
-  <b>Sections</b>
-  <ul style="list-style-type:none; padding-left:0;">
-    <li><a href="#blog-posts-and-press">Blog Posts and Press</a></li>
-    <li><a href="#research">Research</a></li>
-    <li><a href="#product">Product</a></li>
-    <li><a href="#recent-students">Recent Students</a></li>
-    <li><a href="#news">News</a></li>
-    <li><a href="#pc-services">PC services</a></li>
-    <li><a href="#selected-research-talks">Selected Research Talks</a></li>
-    <li><a href="#talks">Talks</a></li>
-  </ul>
-</div>
-<div style="margin-left:220px;">
 
 <p>
   This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
