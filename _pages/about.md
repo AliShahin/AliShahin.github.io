@@ -153,25 +153,11 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 
 
 ## Selected Research Talks
-<figure class="third">
-<iframe 
-  src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>  
-<iframe 
-  src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>
-<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" 
-  frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
-</iframe>  
-</figure>
+
+|  |  |  |
+|---|---|---|
+|<iframe src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|
+|<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>| |
 
 ## Talks
 - 05/2024 - ICLR 2024 conference -- Confidential-DPproof: Confidential Proof of Differentially Private Training <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2024/poster/18707)
@@ -187,7 +173,7 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - 11/2022 - NeurIPS 2022 conference -- Washing The Unwashable : On The (Im)possibility of Fairwashing Detection <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://neurips.cc/virtual/2022/poster/54741)
 - 11/2022 - University of Cambridge and Samsung  
 - 10/2022 - Queen's University of Belfast  
-- 09/2022 - Information Commissioner’s Office  
+- 09/2022 - Information Commissioner's Office  
 - 09/2022 - Brave
 - 06/2020 - CVPR 2020 conference -- ColorFool: Semantic Adversarial Colorization <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=fGw1ZiqOrWo)
 - 05/2020 - ACM Multimedia 2020 -- A tutorial on Deep Learning for Privacy in Multimedia <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://cis.eecs.qmul.ac.uk/pdfs/2020.10.12__DeepLearningForPrivacyInMultimedia_Part2.pdf)
