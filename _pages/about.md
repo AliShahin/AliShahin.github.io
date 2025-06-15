@@ -8,28 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.main-content-with-sidebar {
-  margin-left: 220px;
-}
-</style>
-
-<div style="position:fixed; left:0; top:100px; width:200px; background:#f8f8f8; padding:10px; border-right:1px solid #ddd; z-index:1000; height:80vh; overflow:auto;">
-  <b>Sections</b>
-  <ul style="list-style-type:none; padding-left:0;">
-    <li><a href="#blog-posts-and-press">Blog Posts and Press</a></li>
-    <li><a href="#research">Research</a></li>
-    <li><a href="#product">Product</a></li>
-    <li><a href="#recent-students">Recent Students</a></li>
-    <li><a href="#news">News</a></li>
-    <li><a href="#pc-services">PC services</a></li>
-    <li><a href="#selected-research-talks">Selected Research Talks</a></li>
-    <li><a href="#talks">Talks</a></li>
-  </ul>
-</div>
-
-<div class="main-content-with-sidebar">
-
 <p>
   This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
   <a href="https://brave.com" style="color:#000000;">Brave Software</a>. Before joining Brave Software, I was a Research Scientist at 
@@ -225,5 +203,3 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - 05/2020 - ICASSP 2020 conference -- EdgeFool: An Adversarial Image Enhancement Filter <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=jzoo5USTUSs&t=1s)
 - 06/2018 - The Alan Turing Institute -- Privacy-Aware Neural Network Classification & Training -- <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=pJtw6IRo9q4)
 - 06/2018 - QMUL summer school -- Distribute One-Class Learning <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=9w_TP8iwpxI)
-
-</div>
