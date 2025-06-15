@@ -46,7 +46,7 @@ redirect_from:
 ## Research
 
 My research initiates a fundamental question: 
-<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
+<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice 
 - Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
@@ -154,26 +154,31 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 
 ## Selected Research Talks
 
-<table>
+<table style="border-collapse:collapse; border:none;">
   <tr>
-    <td>
+    <td style="border:none;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>Differentially Private Speaker Anonymization (PETS 2023)</div>
     </td>
-    <td>
+    <td style="border:none;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>Mnemonist: Locating Model Parameters (UAI 2023)</div>
     </td>
-    <td>
+    <td style="border:none;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>Losing Less: A Loss for DP Deep Learning (PETS 2023)</div>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border:none;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>ColorFool: Semantic Adversarial Colorization (CVPR 2020)</div>
     </td>
-    <td>
+    <td style="border:none;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>EdgeFool: Adversarial Image Enhancement (ICASSP 2020)</div>
     </td>
-    <td></td>
+    <td style="border:none;"></td>
   </tr>
 </table>
 
