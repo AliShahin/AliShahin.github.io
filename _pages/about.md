@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <div style="position:fixed; left:0; top:100px; width:200px; background:#f8f8f8; padding:10px; border-right:1px solid #ddd; z-index:1000; height:80vh; overflow:auto;">
   <b>Sections</b>
   <ul style="list-style-type:none; padding-left:0;">
@@ -12,15 +22,6 @@
   </ul>
 </div>
 <div style="margin-left:220px;">
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 <p>
   This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
@@ -60,7 +61,7 @@ redirect_from:
 ## Research
 
 My research initiates a fundamental question: 
-<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
+<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice 
 - Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
