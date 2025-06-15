@@ -1,3 +1,17 @@
+<div style="position:fixed; left:0; top:100px; width:200px; background:#f8f8f8; padding:10px; border-right:1px solid #ddd; z-index:1000; height:80vh; overflow:auto;">
+  <b>Sections</b>
+  <ul style="list-style-type:none; padding-left:0;">
+    <li><a href="#blog-posts-and-press">Blog Posts and Press</a></li>
+    <li><a href="#research">Research</a></li>
+    <li><a href="#product">Product</a></li>
+    <li><a href="#recent-students">Recent Students</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#pc-services">PC services</a></li>
+    <li><a href="#selected-research-talks">Selected Research Talks</a></li>
+    <li><a href="#talks">Talks</a></li>
+  </ul>
+</div>
+<div style="margin-left:220px;">
 ---
 permalink: /
 title: "About me"
@@ -46,7 +60,7 @@ redirect_from:
 ## Research
 
 My research initiates a fundamental question: 
-<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
+<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as “black-boxes” to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice 
 - Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
@@ -203,3 +217,5 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - 05/2020 - ICASSP 2020 conference -- EdgeFool: An Adversarial Image Enhancement Filter <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=jzoo5USTUSs&t=1s)
 - 06/2018 - The Alan Turing Institute -- Privacy-Aware Neural Network Classification & Training -- <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=pJtw6IRo9q4)
 - 06/2018 - QMUL summer school -- Distribute One-Class Learning <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=9w_TP8iwpxI)
+
+</div>
