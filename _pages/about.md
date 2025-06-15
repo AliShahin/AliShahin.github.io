@@ -145,8 +145,8 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - <b> [March 2018] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk), working on project [Privacy-aware neural network classification & training](https://aticdn.s3-eu-west-1.amazonaws.com/2017/12/Internship-Project-Descriptions-2018-FINAL-WC.pdf) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
 
 ## PC services 
-- 2024: PETs’2024, ICLR'2024, [ICLR Private ML workshop](https://pml-workshop.github.io/iclr24/)
-- 2023: NeurIPS’2023, CCS'2023, AISTATS'2023, [ICML 2023 workshop federated learning](https://fl-icml2023.github.io) 
+- 2024: PETs'2024, ICLR'2024, [ICLR Private ML workshop](https://pml-workshop.github.io/iclr24/)
+- 2023: NeurIPS'2023, CCS'2023, AISTATS'2023, [ICML 2023 workshop federated learning](https://fl-icml2023.github.io) 
 - 2022: ICML'2022, TIFS'2022, TOPS'2022, [Explainable AI in Finance](https://sites.google.com/view/2022-workshop-explainable-ai/) 
 - 2021: ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io)
 - 2020: ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
@@ -154,10 +154,28 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 
 ## Selected Research Talks
 
-|  |  |  |
-|---|---|---|
-|<iframe src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|
-|<iframe src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>|<iframe src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>| |
+<table>
+  <tr>
+    <td>
+      <iframe width="320" height="180" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td>
+      <iframe width="320" height="180" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td>
+      <iframe width="320" height="180" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" frameborder="0" allowfullscreen></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <iframe width="320" height="180" src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td>
+      <iframe width="320" height="180" src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## Talks
 - 05/2024 - ICLR 2024 conference -- Confidential-DPproof: Confidential Proof of Differentially Private Training <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2024/poster/18707)
