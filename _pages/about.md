@@ -84,7 +84,7 @@ My research initiates a fundamental question:
 ## Product
 
 ### Privacy Preserving Product Analytics
-- [Nebula](https://brave.com/blog/nebula/)—a practical system for differentially private histogram estimation of data distributed among users! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
+- <a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
 
 ### Secure, Privacy-Preserving and Efficient Agents
 - Coming soon. 
