@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span style="background-color:red"><font color="white"> Hiring interns, feel free to drop me an email highlighting your 3 most significant publications! </font></span>
-
 <p>
   This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
   <a href="https://brave.com" style="color:#000000;">Brave Software</a>. Before joining Brave Software, I was a Research Scientist at 
