@@ -91,7 +91,6 @@ My research initiates a fundamental question:
 
 
 ## Recent Students
-- [Ziqi Zhang](https://ziqi-zhang.github.io/): Brave Visitor (Fall 2024 - Fall 2025), Project [Membership and Memorization in LLM Knowledge Distillation](https://arxiv.org/pdf/2508.07054)
 - [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024), Project: [OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness](https://arxiv.org/pdf/2410.02777)
