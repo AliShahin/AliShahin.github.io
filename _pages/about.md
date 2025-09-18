@@ -98,6 +98,7 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 
 
 ## News
+- <b> [September 2025] </b> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems [NeurIPS 2025](https://neurips.cc/), called [Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services](https://alishahin.github.io/), and [Secure and Confidential Certificates of Online Fairness](https://alishahin.github.io/).
 - <b> [August 2025] </b> Two papers accepted at the conference on Empirical Methods in Natural Language Processing [EMNLP 2025](https://2025.emnlp.org/), called [Membership and Memorization in LLM Knowledge Distillation](https://arxiv.org/abs/2508.07054), and [Context-Aware Membership Inference Attacks against Pre-trained Large Language Models](https://arxiv.org/abs/2409.13745).
 - <b> [May 2025] </b> Paper accepted at the 32nd ACM Conference on Computer and Communications Security [CCS2025](https://www.sigsac.org/ccs/CCS2025/), called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).
 - <b> [April 2025] </b> Paper accepted at the 42nd International Conference on Machine Learning [ICML2025](https://icml.cc/), called [Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention](https://arxiv.org/pdf/2505.23968).
