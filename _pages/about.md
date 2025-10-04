@@ -26,6 +26,7 @@ redirect_from:
 
 ## Blog Posts and Press
 <ul>
+  <li><a href="https://brave.com/blog/privacy-in-llms/" style="color:#8e44ad;">Membership Privacy Risks in LLMs</a></li>
   <li><a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Differentially private data collection</a></li>
   <li><a href="https://brave.com/confidential-dpproof/" style="color:#8e44ad;">Verifiable differentially private ML</a></li>
   <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2" style="color:#8e44ad;">Applying Zero Knowledge Proof in ML</a></li>
