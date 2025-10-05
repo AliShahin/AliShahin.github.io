@@ -9,35 +9,40 @@ redirect_from:
 ---
 
 <p>
-  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now expanding into product strategy and cross-functional leadership) at <a href="https://brave.com" style="color:#000000;">Brave Software</a>. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
-  <a href="https://www.turing.ac.uk" style="color:#000000;">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
-  <a href="http://mlg.eng.cam.ac.uk/adrian/" style="color:#000000;">Adrian Weller</a>, and a Postdoctoral Fellow at 
-  <a href="https://vectorinstitute.ai" style="color:#000000;">Vector Institute</a> under the supervision of 
-  <a href="https://www.papernot.fr" style="color:#000000;">Nicolas Papernot</a>. During my PhD, I was very fortunate to work under 
-  <a href="http://researchers.lille.inria.fr/abellet/" style="color:#000000;">Aurélien Bellet</a>, 
-  <a href="https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate" style="color:#000000;">Andrea Cavallaro</a>, 
-  <a href="https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate" style="color:#000000;">Adria Gascon</a>, 
-  <a href="https://www.imperial.ac.uk/people/h.haddadi" style="color:#000000;">Hamed Haddadi</a>, 
-  <a href="https://mkusner.github.io" style="color:#000000;">Matt Kusner</a> and 
-  <a href="https://members.loria.fr/EVincent/" style="color:#000000;">Emmanuel Vincent</a>.
+  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now expanding into product strategy and cross-functional leadership) at <a href="https://brave.com">Brave Software</a>. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
+  <a href="https://www.turing.ac.uk">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
+  <a href="http://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a>, and a Postdoctoral Fellow at 
+  <a href="https://vectorinstitute.ai">Vector Institute</a> under the supervision of 
+  <a href="https://www.papernot.fr">Nicolas Papernot</a>. During my PhD, I was very fortunate to work under 
+  <a href="http://researchers.lille.inria.fr/abellet/">Aurélien Bellet</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&user=KZmcljoAAAAJ&view_op=list_works&sortby=pubdate">Andrea Cavallaro</a>, 
+  <a href="https://scholar.google.com/citations?hl=en&user=M1FQ49sAAAAJ&view_op=list_works&sortby=pubdate">Adria Gascon</a>, 
+  <a href="https://www.imperial.ac.uk/people/h.haddadi">Hamed Haddadi</a>, 
+  <a href="https://mkusner.github.io">Matt Kusner</a> and 
+  <a href="https://members.loria.fr/EVincent/">Emmanuel Vincent</a>.
 </p>
 
 
+<div class="research-section">
+
 ## Blog Posts and Press
+
 <ul>
-  <li><a href="https://brave.com/blog/privacy-in-llms/" style="color:#8e44ad;">Membership Privacy Risks in LLMs</a></li>
-  <li><a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Differentially private data collection</a></li>
-  <li><a href="https://brave.com/confidential-dpproof/" style="color:#8e44ad;">Verifiable differentially private ML</a></li>
-  <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2" style="color:#8e44ad;">Applying Zero Knowledge Proof in ML</a></li>
-  <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html" style="color:#8e44ad;">Privacy risks in Federated Learning</a></li>
+  <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
+  <li><a href="https://brave.com/blog/nebula/">Differentially private data collection</a></li>
+  <li><a href="https://brave.com/confidential-dpproof/">Verifiable differentially private ML</a></li>
+  <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2">Applying Zero Knowledge Proof in ML</a></li>
+  <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html">Privacy risks in Federated Learning</a></li>
 </ul>
+
+</div>
 
 <p>
   My research has been cited in the press including 
-  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately" style="color:#000000;">
+  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">
     Thurrott
   </a> and 
-  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf" style="color:#000000;">
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">
     TuringTop10
   </a>.
 </p>

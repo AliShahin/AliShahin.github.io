@@ -5,21 +5,21 @@
 /* Modern card-style sections */
 .research-section {
   background: #ffffff;
-  border-radius: $border-radius;
+  border-radius: 8px;
   padding: 2em;
   margin: 2em 0;
-  box-shadow: $box-shadow;
-  border: 1px solid $border-color;
-  transition: $global-transition;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e2e8f0;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   
   &:hover {
-    box-shadow: $box-shadow-lg;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
     transform: translateY(-2px);
   }
   
   h2 {
-    color: $primary-color;
-    border-bottom: 2px solid $primary-color;
+    color: #3182ce;
+    border-bottom: 2px solid #3182ce;
     padding-bottom: 0.5em;
     margin-top: 0;
   }
@@ -35,9 +35,9 @@
       padding: 1em;
       margin: 1em 0;
       background: #f8f9fa;
-      border-radius: $border-radius;
-      border-left: 4px solid $primary-color;
-      transition: $global-transition;
+      border-radius: 8px;
+      border-left: 4px solid #3182ce;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
       
       &:hover {
         background: #e9ecef;
@@ -45,12 +45,12 @@
       }
       
       a {
-        color: $primary-color;
+        color: #3182ce;
         font-weight: 600;
         text-decoration: none;
         
         &:hover {
-          color: darken($primary-color, 15%);
+          color: #2c5aa0;
           text-decoration: underline;
         }
       }
@@ -62,18 +62,18 @@
 .btn-modern {
   display: inline-block;
   padding: 0.75em 1.5em;
-  background: $primary-color;
+  background: #3182ce;
   color: white;
   text-decoration: none;
-  border-radius: $border-radius;
+  border-radius: 8px;
   font-weight: 600;
-  transition: $global-transition;
-  box-shadow: $box-shadow;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   
   &:hover {
-    background: darken($primary-color, 10%);
+    background: #2c5aa0;
     transform: translateY(-2px);
-    box-shadow: $box-shadow-lg;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
     color: white;
     text-decoration: none;
   }
@@ -81,21 +81,21 @@
 
 /* Enhanced code blocks */
 code {
-  background: $code-background-color;
+  background: #f8f9fa;
   padding: 0.2em 0.4em;
   border-radius: 4px;
-  font-family: $monospace;
+  font-family: "JetBrains Mono", "Fira Code", Monaco, Consolas, "Lucida Console", monospace;
   font-size: 0.9em;
-  border: 1px solid $border-color;
+  border: 1px solid #e2e8f0;
 }
 
 pre {
-  background: $code-background-color;
+  background: #f8f9fa;
   padding: 1.5em;
-  border-radius: $border-radius;
-  border: 1px solid $border-color;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
   overflow-x: auto;
-  box-shadow: $box-shadow;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   
   code {
     background: none;
@@ -109,18 +109,18 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 2em 0;
-  box-shadow: $box-shadow;
-  border-radius: $border-radius;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
   overflow: hidden;
   
   th, td {
     padding: 1em;
     text-align: left;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid #e2e8f0;
   }
   
   th {
-    background: $primary-color;
+    background: #3182ce;
     color: white;
     font-weight: 600;
   }
@@ -133,16 +133,16 @@ table {
 /* Enhanced blockquotes */
 blockquote {
   background: #f8f9fa;
-  border-left: 4px solid $primary-color;
+  border-left: 4px solid #3182ce;
   padding: 1.5em;
   margin: 2em 0;
-  border-radius: 0 $border-radius $border-radius 0;
-  box-shadow: $box-shadow;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   
   p {
     margin: 0;
     font-style: italic;
-    color: $text-color;
+    color: #2d3748;
   }
 }
 
@@ -193,7 +193,7 @@ ul, ol {
 /* Enhanced focus states for accessibility */
 a:focus,
 button:focus {
-  outline: 2px solid $primary-color;
+  outline: 2px solid #3182ce;
   outline-offset: 2px;
 }
 
@@ -207,10 +207,10 @@ button:focus {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: $primary-color;
+  background: #3182ce;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: darken($primary-color, 10%);
+  background: #2c5aa0;
 }
