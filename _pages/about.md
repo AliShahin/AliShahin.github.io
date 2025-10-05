@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now ) at <a href="https://brave.com" style="color:#000000;">Brave Software</a>, expanding into product strategy and cross-functional leadership. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
+  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now expanding into product strategy and cross-functional leadership) at <a href="https://brave.com" style="color:#000000;">Brave Software</a>. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
   <a href="https://www.turing.ac.uk" style="color:#000000;">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
   <a href="http://mlg.eng.cam.ac.uk/adrian/" style="color:#000000;">Adrian Weller</a>, and a Postdoctoral Fellow at 
   <a href="https://vectorinstitute.ai" style="color:#000000;">Vector Institute</a> under the supervision of 
@@ -86,6 +86,9 @@ My research initiates a fundamental question:
 
 ### Privacy Preserving Product Analytics
 - <a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
+
+### Privacy-Preserving Conversation Analytics
+- Coming soon.
 
 ### Secure, Privacy-Preserving and Efficient Agents
 - Coming soon. 
