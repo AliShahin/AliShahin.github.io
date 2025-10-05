@@ -32,7 +32,7 @@ redirect_from:
 </p>
 
 <div class="research-section">
-<h2>Blog Posts</h2>
+<h2 id="blog-posts">Blog Posts</h2>
 
 <ul>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
@@ -48,7 +48,7 @@ redirect_from:
 
 
 <div class="research-section">
-<h2>Research</h2>
+<h2 id="research">Research</h2>
 
 My research initiates a fundamental question: 
 <strong> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </strong>
@@ -97,7 +97,7 @@ My research initiates a fundamental question:
 
 
 <div class="research-section">
-<h2>Product</h2>
+<h2 id="product">Product</h2>
 
 <h3>Privacy Preserving Product Analytics</h3>
 <p><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</p>
@@ -112,7 +112,7 @@ My research initiates a fundamental question:
 
 
 <div class="research-section">
-<h2>Recent Students</h2>
+<h2 id="recent-students">Recent Students</h2>
 
 <div class="publication-list">
 <ul>
@@ -129,7 +129,7 @@ My research initiates a fundamental question:
 </div>
 
 
-## News
+## News {#news}
 - <b> [September 2025] </b> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems [NeurIPS 2025](https://neurips.cc/), called [Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services](https://alishahin.github.io/), and [Secure and Confidential Certificates of Online Fairness](https://alishahin.github.io/).
 - <b> [August 2025] </b> Two papers accepted at the conference on Empirical Methods in Natural Language Processing [EMNLP 2025](https://2025.emnlp.org/), called [Membership and Memorization in LLM Knowledge Distillation](https://arxiv.org/abs/2508.07054), and [Context-Aware Membership Inference Attacks against Pre-trained Large Language Models](https://arxiv.org/abs/2409.13745).
 - <b> [May 2025] </b> Paper accepted at the 32nd ACM Conference on Computer and Communications Security [CCS2025](https://www.sigsac.org/ccs/CCS2025/), called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).

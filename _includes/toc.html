@@ -1,0 +1,87 @@
+<!-- Table of Contents Sidebar -->
+<div id="toc-sidebar" class="toc-sidebar">
+  <div class="toc-header">
+    <h3>Contents</h3>
+    <button id="toc-toggle" class="toc-toggle" aria-label="Toggle table of contents">
+      <span class="toc-toggle-icon">×</span>
+    </button>
+  </div>
+  <nav class="toc-nav">
+    <ul class="toc-list">
+      <li class="toc-item">
+        <a href="#blog-posts" class="toc-link">Blog Posts and Press</a>
+      </li>
+      <li class="toc-item">
+        <a href="#research" class="toc-link">Research</a>
+      </li>
+      <li class="toc-item">
+        <a href="#product" class="toc-link">Product</a>
+      </li>
+      <li class="toc-item">
+        <a href="#recent-students" class="toc-link">Recent Students</a>
+      </li>
+      <li class="toc-item">
+        <a href="#news" class="toc-link">News</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tocSidebar = document.getElementById('toc-sidebar');
+  const tocToggle = document.getElementById('toc-toggle');
+  const tocLinks = document.querySelectorAll('.toc-link');
+  
+  // Toggle sidebar
+  tocToggle.addEventListener('click', function() {
+    tocSidebar.classList.toggle('toc-collapsed');
+  });
+  
+  // Highlight current section
+  function highlightCurrentSection() {
+    const sections = document.querySelectorAll('.research-section h2, h2');
+    const scrollPos = window.scrollY + 100;
+    
+    let currentSection = '';
+    sections.forEach(section => {
+      const sectionTop = section.offsetTop;
+      const sectionHeight = section.offsetHeight;
+      
+      if (scrollPos >= sectionTop && scrollPos < sectionTop + sectionHeight) {
+        currentSection = section.id || section.textContent.toLowerCase().replace(/\s+/g, '-');
+      }
+    });
+    
+    // Update active link
+    tocLinks.forEach(link => {
+      link.classList.remove('toc-active');
+      if (link.getAttribute('href') === '#' + currentSection) {
+        link.classList.add('toc-active');
+      }
+    });
+  }
+  
+  // Smooth scroll to sections
+  tocLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      const targetElement = document.getElementById(targetId);
+      
+      if (targetElement) {
+        targetElement.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start'
+        });
+      }
+    });
+  });
+  
+  // Listen for scroll events
+  window.addEventListener('scroll', highlightCurrentSection);
+  
+  // Initial highlight
+  highlightCurrentSection();
+});
+</script>
