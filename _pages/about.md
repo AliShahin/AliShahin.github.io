@@ -35,6 +35,7 @@ redirect_from:
 <div class="research-section">
 <h2 id="blog-posts">Blog Posts and Press</h2>
 
+<div class="publication-list">
 <ul>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
   <li><a href="https://brave.com/blog/nebula/">Differentially private data collection</a></li>
@@ -42,6 +43,7 @@ redirect_from:
   <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2">Applying Zero Knowledge Proof in ML</a></li>
   <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html">Privacy risks in Federated Learning</a></li>
 </ul>
+</div>
 
 </div>
 
