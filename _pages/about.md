@@ -66,14 +66,18 @@ My research initiates a fundamental question:
 </div>
 
 <h3>Identifying failure modes for AI systems</h3>
+
+<div class="publication-list">
 <ul>
   <li>Privacy Attacks: <a href="https://arxiv.org/pdf/2409.13745">Context-Aware MIAs against Pre-trained LLMs</a> [EMNLP'2025], <a href="https://arxiv.org/pdf/2508.07054">Membership and Memorization in LLM Knowledge Distillation</a> [EMNLP'2025], <a href="https://openreview.net/pdf?id=oVn5GLyONY">Locating Model Parameters that Memorize Training Examples</a> [UAI'2023], <a href="https://arxiv.org/pdf/2112.02918.pdf">Trap weights</a> [Euro S&amp;P'2023]</li>
   <li>Fairness Attacks: <a href="https://openreview.net/pdf?id=3vmKQUctNy">Fairwashing</a> [NeurIPS'2022]</li>
   <li>Robustness Attacks: <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf">ColorFool</a> [CVPR'2020], <a href="https://arxiv.org/pdf/2202.02751.pdf">Mystique</a> [USENIX'2022], <a href="https://arxiv.org/pdf/1910.12227.pdf">EdgeFool</a> [ICASSP'2020], <a href="https://arxiv.org/pdf/2008.06069.pdf">FilterFool</a> [TIP'2022], and <a href="https://arxiv.org/pdf/2011.08483.pdf">FoolHD</a> [ICASSP'2021]</li>
 </ul>
+</div>
 
 <h3>Secure and privacy-preserving (by design) AI</h3>
 
+<div class="publication-list">
 <ul>
   <li>Privacy-preserving:  
     <a href="https://petsymposium.org/popets/2023/popets-2023-0083.pdf">A Loss for Differentially Private Deep Learning</a> [PETS'2023], 
@@ -87,6 +91,7 @@ My research initiates a fundamental question:
     <a href="https://arxiv.org/pdf/2004.05574">From Local to Distributed Private Training and Prediction</a> [TIFS'2020]
   </li>
 </ul>
+</div>
 
 </div>
 
