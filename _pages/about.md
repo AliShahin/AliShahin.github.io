@@ -35,41 +35,25 @@ redirect_from:
 <div class="research-section">
 <h2 id="latest-tweets">Latest Posts on X</h2>
 
-<div class="twitter-timeline-wrapper">
-<a class="twitter-timeline" 
-   href="https://twitter.com/AliShahinShams1" 
-   data-tweet-limit="3" 
-   data-chrome="nofooter noborders transparent"
-   data-theme="dark"
-   data-width="100%"
-   data-height="400"
-   data-dnt="true">
-Posts by @AliShahinShams1
-</a>
+<div class="publication-list">
+<ul>
+  <li>
+    <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer">
+      <strong>Follow @AliShahinShams1 on X</strong> - See my latest posts about AI research, privacy, and product innovation
+    </a>
+  </li>
+  <li>
+    <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer">
+      <strong>Research Updates</strong> - Stay updated with my latest research findings and publications
+    </a>
+  </li>
+  <li>
+    <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer">
+      <strong>Industry Insights</strong> - Thoughts on AI safety, privacy-preserving ML, and product development
+    </a>
+  </li>
+</ul>
 </div>
-
-<script>
-window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-
-  return t;
-}(document, "script", "twitter-wjs"));
-
-twttr.ready(function() {
-  twttr.widgets.load();
-});
-</script>
 
 </div>
 
