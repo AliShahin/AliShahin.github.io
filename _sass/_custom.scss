@@ -484,3 +484,39 @@ button:focus {
 ::-webkit-scrollbar-thumb:hover {
   background: #2c5aa0;
 }
+
+/* Twitter Timeline Styling */
+.twitter-timeline-wrapper {
+  margin: 1em 0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #1a1a1a;
+  border: 1px solid #404040;
+  
+  .twitter-timeline {
+    border-radius: 8px !important;
+  }
+}
+
+/* Override Twitter widget styles for dark theme */
+.twitter-timeline {
+  background: #1a1a1a !important;
+  color: #e5e5e5 !important;
+  
+  .timeline-Tweet {
+    background: #2d2d2d !important;
+    border-color: #404040 !important;
+  }
+  
+  .timeline-Tweet-text {
+    color: #e5e5e5 !important;
+  }
+  
+  .timeline-Tweet-author {
+    color: #60a5fa !important;
+  }
+  
+  .timeline-Tweet-metadata {
+    color: #9ca3af !important;
+  }
+}

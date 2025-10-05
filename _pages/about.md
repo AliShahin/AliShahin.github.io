@@ -33,6 +33,23 @@ redirect_from:
 </p>
 
 <div class="research-section">
+<h2 id="latest-tweets">Latest Tweets</h2>
+
+<div class="twitter-timeline-wrapper">
+<a class="twitter-timeline" 
+   href="https://twitter.com/ashahinshamsabadi" 
+   data-tweet-limit="3" 
+   data-chrome="nofooter noborders transparent"
+   data-theme="dark"
+   data-width="100%"
+   data-height="400">
+Tweets by @ashahinshamsabadi
+</a>
+</div>
+
+</div>
+
+<div class="research-section">
 <h2 id="blog-posts">Blog Posts and Press</h2>
 
 <div class="publication-list">
