@@ -32,7 +32,7 @@ redirect_from:
 </p>
 
 <div class="research-section">
-<h2 id="blog-posts">Blog Posts</h2>
+<h2 id="blog-posts">Blog Posts and Press</h2>
 
 <ul>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
@@ -178,15 +178,24 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - <b> [June 2018] </b> Offered a PhD Enrichment scheme, a 9-month placement at [The Alan Turing Institute](https://www.turing.ac.uk)!
 - <b> [March 2018] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk), working on project [Privacy-aware neural network classification & training](https://aticdn.s3-eu-west-1.amazonaws.com/2017/12/Internship-Project-Descriptions-2018-FINAL-WC.pdf) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
 
-## PC services 
-- 2024: PETs'2024, ICLR'2024, [ICLR Private ML workshop](https://pml-workshop.github.io/iclr24/)
-- 2023: NeurIPS'2023, CCS'2023, AISTATS'2023, [ICML 2023 workshop federated learning](https://fl-icml2023.github.io) 
-- 2022: ICML'2022, TIFS'2022, TOPS'2022, [Explainable AI in Finance](https://sites.google.com/view/2022-workshop-explainable-ai/) 
-- 2021: ICLR'2021 [Security and Safety in Machine Learning Systems](https://aisecure-workshop.github.io/aml-iclr2021/committee), ICCV'2021 [Adversarial Robustness In the Real World](https://iccv21-adv-workshop.github.io)
-- 2020: ECCV'2020 [Adversarial Robustness in the Real World](https://eccv20-adv-workshop.github.io), [42nd IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP2021/cfpapers.html).
+<div class="research-section">
+<h2 id="pc-services">PC services</h2>
+
+<div class="publication-list">
+<ul>
+<li>2024: PETs'2024, ICLR'2024, <a href="https://pml-workshop.github.io/iclr24/">ICLR Private ML workshop</a></li>
+<li>2023: NeurIPS'2023, CCS'2023, AISTATS'2023, <a href="https://fl-icml2023.github.io">ICML 2023 workshop federated learning</a></li>
+<li>2022: ICML'2022, TIFS'2022, TOPS'2022, <a href="https://sites.google.com/view/2022-workshop-explainable-ai/">Explainable AI in Finance</a></li>
+<li>2021: ICLR'2021 <a href="https://aisecure-workshop.github.io/aml-iclr2021/committee">Security and Safety in Machine Learning Systems</a>, ICCV'2021 <a href="https://iccv21-adv-workshop.github.io">Adversarial Robustness In the Real World</a></li>
+<li>2020: ECCV'2020 <a href="https://eccv20-adv-workshop.github.io">Adversarial Robustness in the Real World</a>, <a href="http://www.ieee-security.org/TC/SP2021/cfpapers.html">42nd IEEE Symposium on Security and Privacy</a></li>
+</ul>
+</div>
+
+</div>
 
 
-## Selected Research Talks
+<div class="research-section">
+<h2 id="selected-research-talks">Selected Research Talks</h2>
 
 <table style="border-collapse:collapse; border:none;">
   <tr>
@@ -216,24 +225,34 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
   </tr>
 </table>
 
-## Talks
-- 05/2024 - ICLR 2024 conference -- Confidential-DPproof: Confidential Proof of Differentially Private Training <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2024/poster/18707)
-- 07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=-GE8BUZzjlo)
-- 06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=Eet3AJeqTEY)
-- 06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view) <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=uvc49vW-UUI)
-- 05/2023 - ICLR 2023 conference -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://iclr.cc/virtual/2023/poster/11224)
-- 05/2023 - [Workshop on Algorithmic Audits of Algorithms](https://algorithmic-audits.github.io) 
-- 05/2023 - Intel
-- 04/2023 - Northwestern University -- How can we audit Fairness of AI-driven services provided by companies?
-- 03/2023 - AIUK 2023 -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?app=desktop&v=np6-cSckPV4&t=2364s)
-- 03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning 
-- 11/2022 - NeurIPS 2022 conference -- Washing The Unwashable : On The (Im)possibility of Fairwashing Detection <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://neurips.cc/virtual/2022/poster/54741)
-- 11/2022 - University of Cambridge and Samsung  
-- 10/2022 - Queen's University of Belfast  
-- 09/2022 - Information Commissioner's Office  
-- 09/2022 - Brave
-- 06/2020 - CVPR 2020 conference -- ColorFool: Semantic Adversarial Colorization <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=fGw1ZiqOrWo)
-- 05/2020 - ACM Multimedia 2020 -- A tutorial on Deep Learning for Privacy in Multimedia <i class="fa fa-file-powerpoint-o" style="color:orange"></i>[<font color="orange">Slides</font>](https://cis.eecs.qmul.ac.uk/pdfs/2020.10.12__DeepLearningForPrivacyInMultimedia_Part2.pdf)
-- 05/2020 - ICASSP 2020 conference -- EdgeFool: An Adversarial Image Enhancement Filter <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=jzoo5USTUSs&t=1s)
-- 06/2018 - The Alan Turing Institute -- Privacy-Aware Neural Network Classification & Training -- <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=pJtw6IRo9q4)
-- 06/2018 - QMUL summer school -- Distribute One-Class Learning <i class="fa fa-youtube-play" style="color:blue"></i>[<font color="blue">Video</font>](https://www.youtube.com/watch?v=9w_TP8iwpxI)
+</div>
+
+<div class="research-section">
+<h2 id="talks">Talks</h2>
+
+<div class="publication-list">
+<ul>
+<li>05/2024 - ICLR 2024 conference -- Confidential-DPproof: Confidential Proof of Differentially Private Training <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://iclr.cc/virtual/2024/poster/18707"><font color="blue">Video</font></a></li>
+<li>07/2023 - UAI 2023 conference -- Mnemonist: Locating Model Parameters that Memorize Training Examples <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=-GE8BUZzjlo"><font color="blue">Video</font></a></li>
+<li>06/2023 - PETS 2023 conference -- Losing Less: A Loss for Differentially Private Deep Learning <i class="fa fa-file-powerpoint-o" style="color:orange"></i><a href="https://drive.google.com/file/d/1leWqbEArDvZzM_zCEtjk6i_Vk5uvTpnF/view"><font color="orange">Slides</font></a> <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=Eet3AJeqTEY"><font color="blue">Video</font></a></li>
+<li>06/2023 - PETS 2023 conference -- Differentially Private Speaker Anonymization <i class="fa fa-file-powerpoint-o" style="color:orange"></i><a href="https://drive.google.com/file/d/1s-da_nW0Rz-RJO6Rovo0qM8auvpOYTg8/view"><font color="orange">Slides</font></a> <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=uvc49vW-UUI"><font color="blue">Video</font></a></li>
+<li>05/2023 - ICLR 2023 conference -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://iclr.cc/virtual/2023/poster/11224"><font color="blue">Video</font></a></li>
+<li>05/2023 - <a href="https://algorithmic-audits.github.io">Workshop on Algorithmic Audits of Algorithms</a></li>
+<li>05/2023 - Intel</li>
+<li>04/2023 - Northwestern University -- How can we audit Fairness of AI-driven services provided by companies?</li>
+<li>03/2023 - AIUK 2023 -- Confidential-PROFITT: Confidential PROof of FaIr Training of Trees <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?app=desktop&v=np6-cSckPV4&t=2364s"><font color="blue">Video</font></a></li>
+<li>03/2023 - University of Cambridge -- An Overview of Differential Privacy, Membership Inference Attacks, and Federated Learning</li>
+<li>11/2022 - NeurIPS 2022 conference -- Washing The Unwashable : On The (Im)possibility of Fairwashing Detection <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://neurips.cc/virtual/2022/poster/54741"><font color="blue">Video</font></a></li>
+<li>11/2022 - University of Cambridge and Samsung</li>
+<li>10/2022 - Queen's University of Belfast</li>
+<li>09/2022 - Information Commissioner's Office</li>
+<li>09/2022 - Brave</li>
+<li>06/2020 - CVPR 2020 conference -- ColorFool: Semantic Adversarial Colorization <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=fGw1ZiqOrWo"><font color="blue">Video</font></a></li>
+<li>05/2020 - ACM Multimedia 2020 -- A tutorial on Deep Learning for Privacy in Multimedia <i class="fa fa-file-powerpoint-o" style="color:orange"></i><a href="https://cis.eecs.qmul.ac.uk/pdfs/2020.10.12__DeepLearningForPrivacyInMultimedia_Part2.pdf"><font color="orange">Slides</font></a></li>
+<li>05/2020 - ICASSP 2020 conference -- EdgeFool: An Adversarial Image Enhancement Filter <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=jzoo5USTUSs&t=1s"><font color="blue">Video</font></a></li>
+<li>06/2018 - The Alan Turing Institute -- Privacy-Aware Neural Network Classification & Training -- <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=pJtw6IRo9q4"><font color="blue">Video</font></a></li>
+<li>06/2018 - QMUL summer school -- Distribute One-Class Learning <i class="fa fa-youtube-play" style="color:blue"></i><a href="https://www.youtube.com/watch?v=9w_TP8iwpxI"><font color="blue">Video</font></a></li>
+</ul>
+</div>
+
+</div>
