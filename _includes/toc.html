@@ -49,20 +49,26 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Highlight current section
   function highlightCurrentSection() {
-    const sections = document.querySelectorAll('.research-section h2, h2');
+    const sections = document.querySelectorAll('h2[id]');
     const scrollPos = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-    const offset = 100;
+    const offset = 150; // Increased offset for better detection
     
     let currentSection = '';
-    for (let i = 0; i < sections.length; i++) {
+    
+    // Find the section that's currently in view
+    for (let i = sections.length - 1; i >= 0; i--) {
       const section = sections[i];
       const sectionTop = section.offsetTop;
-      const sectionHeight = section.offsetHeight;
       
-      if (scrollPos + offset >= sectionTop && scrollPos + offset < sectionTop + sectionHeight) {
-        currentSection = section.id || section.textContent.toLowerCase().replace(/\s+/g, '-');
+      if (scrollPos + offset >= sectionTop) {
+        currentSection = section.id;
         break;
       }
+    }
+    
+    // If no section found, check if we're at the top
+    if (!currentSection && scrollPos < 200) {
+      currentSection = 'blog-posts'; // Default to first section
     }
     
     // Update active link
@@ -119,8 +125,17 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
+  // Throttled scroll listener for better performance
+  let scrollTimeout;
+  function throttledHighlight() {
+    if (scrollTimeout) {
+      clearTimeout(scrollTimeout);
+    }
+    scrollTimeout = setTimeout(highlightCurrentSection, 10);
+  }
+  
   // Listen for scroll events
-  window.addEventListener('scroll', highlightCurrentSection);
+  window.addEventListener('scroll', throttledHighlight);
   
   // Initial highlight
   highlightCurrentSection();
