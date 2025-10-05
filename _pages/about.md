@@ -111,15 +111,22 @@ My research initiates a fundamental question:
 </div> 
 
 
-## Recent Students
-- [Jaechul Roh](https://jrohsc.github.io/): Brave PhD Intern (Summer 2025), Project: Privacy of web agents
-- [Dzung V. Pham](https://dzungvpham.github.io/): Brave PhD Intern (Summer 2025), Project: Efficiency of web agents
-- [Alisha Ukani](https://www.alishaukani.com/): Brave PhD Intern (Summer 2025), Project: Intersection of Browser privacy and Web agents
-- [Saiid El Hajj Chehade](https://saiid.ch/): Brave PhD Visitor (Summer 2025), Project: Optimizing web presentation for agents
-- [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
-against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
-- [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024), Project: [OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness](https://arxiv.org/pdf/2410.02777)
-- [Victoria Smith](https://v-smith.github.io/): Alan Turing Institute PhD Enrichment Student (Fall 2022 - Fall 2023), Project: [Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey](https://arxiv.org/pdf/2310.01424.pdf)
+<div class="research-section">
+<h2>Recent Students</h2>
+
+<div class="publication-list">
+<ul>
+<li><a href="https://jrohsc.github.io/">Jaechul Roh</a>: Brave PhD Intern (Summer 2025), Project: Privacy of web agents</li>
+<li><a href="https://dzungvpham.github.io/">Dzung V. Pham</a>: Brave PhD Intern (Summer 2025), Project: Efficiency of web agents</li>
+<li><a href="https://www.alishaukani.com/">Alisha Ukani</a>: Brave PhD Intern (Summer 2025), Project: Intersection of Browser privacy and Web agents</li>
+<li><a href="https://saiid.ch/">Saiid El Hajj Chehade</a>: Brave PhD Visitor (Summer 2025), Project: Optimizing web presentation for agents</li>
+<li><a href="https://www.comp.nus.edu.sg/~hongyan/">Hongyan Chang</a>: Brave PhD Intern (Summer 2024), Project: <a href="https://arxiv.org/pdf/2409.13745">Context-Aware Membership Inference Attacks against Pre-trained Large Language Models</a></li>
+<li><a href="https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate">Olive Franzese</a>: Brave PhD Intern (Summer 2024), Project: <a href="https://arxiv.org/pdf/2410.02777">OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness</a></li>
+<li><a href="https://v-smith.github.io/">Victoria Smith</a>: Alan Turing Institute PhD Enrichment Student (Fall 2022 - Fall 2023), Project: <a href="https://arxiv.org/pdf/2310.01424.pdf">Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey</a></li>
+</ul>
+</div>
+
+</div>
 
 
 ## News
