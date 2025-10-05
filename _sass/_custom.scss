@@ -256,6 +256,68 @@ button:focus {
   outline-offset: 2px;
 }
 
+/* Modern Social Icons */
+.social-icon-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  
+  &:hover {
+    background-color: rgba(49, 130, 206, 0.1);
+    transform: translateX(4px);
+  }
+}
+
+.social-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 12px;
+  color: #4a5568;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  flex-shrink: 0;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+  
+  &:hover {
+    text-decoration: none;
+    color: inherit;
+    
+    .social-icon {
+      color: #3182ce;
+      transform: scale(1.1);
+    }
+  }
+}
+
+.social-icon-item span {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2d3748;
+  transition: color 0.3s ease;
+}
+
+.social-icon-item:hover span {
+  color: #3182ce;
+}
+
+/* Update existing social icons styling */
+.author__urls {
+  .social-icon-item {
+    list-style: none;
+    margin: 0;
+    padding: 8px 12px;
+  }
+}
+
 /* Table of Contents Sidebar */
 .toc-sidebar {
   position: fixed;
