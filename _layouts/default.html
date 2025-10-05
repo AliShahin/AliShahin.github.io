@@ -18,7 +18,9 @@ layout: compress
 
     {{ content }}
 
-    {% include toc.html %}
+    {% if page.show_toc %}
+      {% include toc.html %}
+    {% endif %}
 
     </script>
 
