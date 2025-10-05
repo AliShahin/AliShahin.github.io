@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <p>
-  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist at 
-  <a href="https://brave.com" style="color:#000000;">Brave Software</a>. Before joining Brave Software, I was a Research Scientist at 
+  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com" style="color:#000000;">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now ) at <a href="https://brave.com" style="color:#000000;">Brave Software</a>, expanding into product strategy and cross-functional leadership. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
   <a href="https://www.turing.ac.uk" style="color:#000000;">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
   <a href="http://mlg.eng.cam.ac.uk/adrian/" style="color:#000000;">Adrian Weller</a>, and a Postdoctoral Fellow at 
   <a href="https://vectorinstitute.ai" style="color:#000000;">Vector Institute</a> under the supervision of 
@@ -50,9 +49,10 @@ My research initiates a fundamental question:
 <b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
 
 ### Verifiable Trustworthiness of AI in Practice 
+- Verifiable alignment: <a href="https://alishahin.github.io/" style="color:#8e44ad;">SURE: SecUrely REpairs failures flagged by users</a> [ICML'2025]
 - Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
 - Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe" style="color:#8e44ad;">Confidential-DPproof</a> [ICLR'2024]
-- Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD" style="color:#8e44ad;">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777" style="color:#8e44ad;">OATH</a> [Arxiv]
+- Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD" style="color:#8e44ad;">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777" style="color:#8e44ad;">OATH</a> [NeurIPS'2025]
 - <a href="https://openreview.net/forum?id=OUz_9TiTv9j" style="color:#8e44ad;">Architecture-Independent Model Distances</a> [ICLR'2022]
 
 
@@ -92,6 +92,10 @@ My research initiates a fundamental question:
 
 
 ## Recent Students
+- [Jaechul Roh](https://jrohsc.github.io/): Brave PhD Intern (Summer 2025), Project: Privacy of web agents
+- [Dzung V. Pham](https://dzungvpham.github.io/): Brave PhD Intern (Summer 2025), Project: Efficiency of web agents
+- [Alisha Ukani](https://www.alishaukani.com/): Brave PhD Intern (Summer 2025), Project: Intersection of Browser privacy and Web agents
+- [Saiid El Hajj Chehade](https://saiid.ch/): Brave PhD Visitor (Summer 2025), Project: Optimizing web presentation for agents
 - [Hongyan Chang](https://www.comp.nus.edu.sg/~hongyan/): Brave PhD Intern (Summer 2024), Project: [Context-Aware Membership Inference Attacks
 against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745)
 - [Olive Franzese](https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate): Brave PhD Intern (Summer 2024), Project: [OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness](https://arxiv.org/pdf/2410.02777)
