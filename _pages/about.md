@@ -32,24 +32,6 @@ redirect_from:
   </a>.
 </p>
 
-<div class="research-section">
-<h2 id="latest-tweets">Latest Posts on X</h2>
-
-<div class="twitter-timeline-wrapper">
-<a class="twitter-timeline" 
-   href="https://twitter.com/AliShahinShams1?ref_src=twsrc%5Etfw"
-   data-tweet-limit="3"
-   data-chrome="nofooter noborders transparent"
-   data-theme="dark"
-   data-width="100%"
-   data-height="400">
-Tweets by @AliShahinShams1
-</a>
-</div>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
 
 <div class="research-section">
 <h2 id="blog-posts">Blog Posts and Press</h2>
