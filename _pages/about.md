@@ -130,7 +130,8 @@ My research initiates a fundamental question:
 </div>
 
 
-## News {#news}
+<div class="research-section">
+<h2 id="news">News</h2>
 - <b> [September 2025] </b> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems [NeurIPS 2025](https://neurips.cc/), called [Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services](https://alishahin.github.io/), and [Secure and Confidential Certificates of Online Fairness](https://alishahin.github.io/).
 - <b> [August 2025] </b> Two papers accepted at the conference on Empirical Methods in Natural Language Processing [EMNLP 2025](https://2025.emnlp.org/), called [Membership and Memorization in LLM Knowledge Distillation](https://arxiv.org/abs/2508.07054), and [Context-Aware Membership Inference Attacks against Pre-trained Large Language Models](https://arxiv.org/abs/2409.13745).
 - <b> [May 2025] </b> Paper accepted at the 32nd ACM Conference on Computer and Communications Security [CCS2025](https://www.sigsac.org/ccs/CCS2025/), called [Nebula: Efficient, Private and Accurate Histogram Estimation](https://arxiv.org/pdf/2409.09676).
@@ -178,6 +179,8 @@ against Pre-trained Large Language Models](https://arxiv.org/pdf/2409.13745).
 - <b> [Jan 2019] </b> Paper accepted at 44th International Conference on Acoustics, Speech, and Signal Processing, [ICASSP2019](https://2019.ieeeicassp.org), called [Scene privacy protection](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/56780/Cavallaro%20Scene%20privacy%20protection%202019%20Accepted.pdf?sequence=2), [<font color="blue">Code</font>](https://github.com/smartcameras/P-FGSM)! (acceptance rate 49%)
 - <b> [June 2018] </b> Offered a PhD Enrichment scheme, a 9-month placement at [The Alan Turing Institute](https://www.turing.ac.uk)!
 - <b> [March 2018] </b> Offered an internship for summer 2018 at [The Alan Turing Institute](https://www.turing.ac.uk), working on project [Privacy-aware neural network classification & training](https://aticdn.s3-eu-west-1.amazonaws.com/2017/12/Internship-Project-Descriptions-2018-FINAL-WC.pdf) under supervision of Adria Gascon, Matt Kusner, Varun Kanade!
+
+</div>
 
 <div class="research-section">
 <h2 id="pc-services">PC services</h2>
