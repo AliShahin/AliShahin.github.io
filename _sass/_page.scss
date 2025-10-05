@@ -66,11 +66,11 @@
     margin-bottom: 0.75em;
   }
 
-  p, li, dl {
-    font-size: 1.1em;
-    line-height: 1.7;
-    color: $text-color;
-  }
+      p, li, dl {
+        font-size: 0.95em;
+        line-height: 1.6;
+        color: $text-color;
+      }
 
   /* paragraph indents */
   p {
