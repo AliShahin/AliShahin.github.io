@@ -35,73 +35,19 @@ redirect_from:
 <div class="research-section">
 <h2 id="latest-tweets">Latest Posts on X</h2>
 
-<div class="x-posts-container">
-  <div class="x-post-card">
-    <div class="x-post-header">
-      <div class="x-post-avatar">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-        </svg>
-      </div>
-      <div class="x-post-info">
-        <div class="x-post-author">@AliShahinShams1</div>
-        <div class="x-post-time">Recent</div>
-      </div>
-    </div>
-    <div class="x-post-content">
-      <p>Follow me on X for the latest updates on AI research, privacy-preserving machine learning, and product innovation at Brave Software.</p>
-    </div>
-    <div class="x-post-actions">
-      <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer" class="x-post-link">
-        View on X →
-      </a>
-    </div>
-  </div>
-  
-  <div class="x-post-card">
-    <div class="x-post-header">
-      <div class="x-post-avatar">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-        </svg>
-      </div>
-      <div class="x-post-info">
-        <div class="x-post-author">@AliShahinShams1</div>
-        <div class="x-post-time">Recent</div>
-      </div>
-    </div>
-    <div class="x-post-content">
-      <p>Sharing insights on verifiable AI trustworthiness, differential privacy, and building products that protect user data while enabling innovation.</p>
-    </div>
-    <div class="x-post-actions">
-      <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer" class="x-post-link">
-        View on X →
-      </a>
-    </div>
-  </div>
-  
-  <div class="x-post-card">
-    <div class="x-post-header">
-      <div class="x-post-avatar">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
-        </svg>
-      </div>
-      <div class="x-post-info">
-        <div class="x-post-author">@AliShahinShams1</div>
-        <div class="x-post-time">Recent</div>
-      </div>
-    </div>
-    <div class="x-post-content">
-      <p>Excited to be working at the intersection of research and product development, turning scientific insights into real-world impact.</p>
-    </div>
-    <div class="x-post-actions">
-      <a href="https://x.com/AliShahinShams1" target="_blank" rel="noopener noreferrer" class="x-post-link">
-        View on X →
-      </a>
-    </div>
-  </div>
+<div class="twitter-timeline-wrapper">
+<a class="twitter-timeline" 
+   href="https://twitter.com/AliShahinShams1?ref_src=twsrc%5Etfw"
+   data-tweet-limit="3"
+   data-chrome="nofooter noborders transparent"
+   data-theme="dark"
+   data-width="100%"
+   data-height="400">
+Tweets by @AliShahinShams1
+</a>
 </div>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
