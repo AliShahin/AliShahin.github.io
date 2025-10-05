@@ -18,8 +18,8 @@
   }
   
   h2 {
-    color: #3182ce;
-    border-bottom: 2px solid #3182ce;
+    color: #3182ce !important;
+    border-bottom: 2px solid #3182ce !important;
     padding-bottom: 0.5em;
     margin-top: 0;
   }
@@ -45,16 +45,42 @@
       }
       
       a {
-        color: #3182ce;
+        color: #3182ce !important;
         font-weight: 600;
-        text-decoration: none;
+        text-decoration: none !important;
         
         &:hover {
-          color: #2c5aa0;
-          text-decoration: underline;
+          color: #2c5aa0 !important;
+          text-decoration: underline !important;
         }
       }
     }
+  }
+}
+
+/* Override default link styles globally */
+.page__content a {
+  text-decoration: none !important;
+  color: #3182ce !important;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    color: #2c5aa0 !important;
+    text-decoration: underline !important;
+  }
+}
+
+/* Research section links */
+.research-section a {
+  text-decoration: none !important;
+  color: #3182ce !important;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover {
+    color: #2c5aa0 !important;
+    text-decoration: underline !important;
   }
 }
 
