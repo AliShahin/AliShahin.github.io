@@ -21,10 +21,18 @@ redirect_from:
   <a href="https://mkusner.github.io">Matt Kusner</a> and 
   <a href="https://members.loria.fr/EVincent/">Emmanuel Vincent</a>.
 </p>
-
+<p>
+  My research has been cited in the press including 
+  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">
+    Thurrott
+  </a> and 
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">
+    TuringTop10
+  </a>.
+</p>
 
 <div class="research-section">
-<h2>Blog Posts and Press</h2>
+<h2>Blog Posts</h2>
 
 <ul>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
@@ -36,15 +44,7 @@ redirect_from:
 
 </div>
 
-<p>
-  My research has been cited in the press including 
-  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">
-    Thurrott
-  </a> and 
-  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">
-    TuringTop10
-  </a>.
-</p>
+
 
 
 <div class="research-section">
