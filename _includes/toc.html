@@ -55,13 +55,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     let currentSection = '';
     
-    // Debug: Log sections found
-    console.log('Found sections:', sections.length);
-    for (let i = 0; i < sections.length; i++) {
-      console.log(`Section ${i}: ${sections[i].id} at ${sections[i].offsetTop}`);
-    }
-    console.log('Scroll position:', scrollPos);
-    
     // Find the section that's currently in view
     for (let i = sections.length - 1; i >= 0; i--) {
       const section = sections[i];
@@ -69,7 +62,6 @@ document.addEventListener('DOMContentLoaded', function() {
       
       if (scrollPos + offset >= sectionTop) {
         currentSection = section.id;
-        console.log('Current section:', currentSection);
         break;
       }
     }
@@ -77,7 +69,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // If no section found, check if we're at the top
     if (!currentSection && scrollPos < 200) {
       currentSection = 'blog-posts'; // Default to first section
-      console.log('Default to first section:', currentSection);
     }
     
     // Update active link
@@ -86,7 +77,6 @@ document.addEventListener('DOMContentLoaded', function() {
       link.classList.remove('toc-active');
       if (link.getAttribute('href') === '#' + currentSection) {
         link.classList.add('toc-active');
-        console.log('Activated link:', link.textContent);
       }
     }
   }
