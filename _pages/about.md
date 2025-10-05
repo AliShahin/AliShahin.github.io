@@ -97,17 +97,16 @@ My research initiates a fundamental question:
 
 
 <div class="research-section">
+<h2>Product</h2>
 
-## Product
+<h3>Privacy Preserving Product Analytics</h3>
+<p><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</p>
 
-### Privacy Preserving Product Analytics
-- <a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
+<h3>Privacy-Preserving Conversation Analytics</h3>
+<p>Coming soon.</p>
 
-### Privacy-Preserving Conversation Analytics
-- Coming soon.
-
-### Secure, Privacy-Preserving and Efficient Agents
-- Coming soon.
+<h3>Secure, Privacy-Preserving and Efficient Agents</h3>
+<p>Coming soon.</p>
 
 </div> 
 
