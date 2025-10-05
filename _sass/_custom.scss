@@ -24,6 +24,14 @@
     margin-top: 0;
   }
   
+  h3 {
+    color: #2d3748 !important;
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+    font-size: 1.2em;
+  }
+  
   /* Also target h2 that might be in the next line after div */
   & + h2 {
     color: #3182ce !important;
