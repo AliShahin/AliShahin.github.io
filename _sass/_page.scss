@@ -52,11 +52,24 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $primary-color;
+    color: $text-color;
+    font-weight: 600;
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+  
+  h3 {
+    color: $text-color;
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 1.1em;
+    line-height: 1.7;
+    color: $text-color;
   }
 
   /* paragraph indents */
@@ -74,12 +87,17 @@
 
   a {
     text-decoration: none;
+    color: $primary-color;
+    font-weight: 500;
+    transition: $global-transition;
 
     &:hover {
+      color: darken($primary-color, 15%);
       text-decoration: underline;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: $box-shadow-lg;
+        transform: translateY(-2px);
       }
     }
   }

@@ -43,17 +43,26 @@ redirect_from:
 </p>
 
 
+<div class="research-section">
+
 ## Research
 
 My research initiates a fundamental question: 
-<b> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </b> 
+<strong> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </strong>
+
+</div> 
 
 ### Verifiable Trustworthiness of AI in Practice 
-- Verifiable alignment: <a href="https://alishahin.github.io/" style="color:#8e44ad;">SURE: SecUrely REpairs failures flagged by users</a> [ICML'2025]
-- Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968" style="color:#8e44ad;">Confidential Guardian</a> [ICML'2025]
-- Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe" style="color:#8e44ad;">Confidential-DPproof</a> [ICLR'2024]
-- Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD" style="color:#8e44ad;">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777" style="color:#8e44ad;">OATH</a> [NeurIPS'2025]
-- <a href="https://openreview.net/forum?id=OUz_9TiTv9j" style="color:#8e44ad;">Architecture-Independent Model Distances</a> [ICLR'2022]
+
+<div class="publication-list">
+<ul>
+<li>Verifiable alignment: <a href="https://alishahin.github.io/">SURE: SecUrely REpairs failures flagged by users</a> [ICML'2025]</li>
+<li>Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968">Confidential Guardian</a> [ICML'2025]</li>
+<li>Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe">Confidential-DPproof</a> [ICLR'2024]</li>
+<li>Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777">OATH</a> [NeurIPS'2025]</li>
+<li><a href="https://openreview.net/forum?id=OUz_9TiTv9j">Architecture-Independent Model Distances</a> [ICLR'2022]</li>
+</ul>
+</div>
 
 
 ### Identifying failure modes for AI systems
@@ -82,16 +91,20 @@ My research initiates a fundamental question:
 </ul>
 
 
+<div class="research-section">
+
 ## Product
 
 ### Privacy Preserving Product Analytics
-- <a href="https://brave.com/blog/nebula/" style="color:#8e44ad;">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
+- <a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.
 
 ### Privacy-Preserving Conversation Analytics
 - Coming soon.
 
 ### Secure, Privacy-Preserving and Efficient Agents
-- Coming soon. 
+- Coming soon.
+
+</div> 
 
 
 ## Recent Students

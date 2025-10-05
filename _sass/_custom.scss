@@ -1,0 +1,216 @@
+/* ==========================================================================
+   CUSTOM ENHANCEMENTS
+   ========================================================================== */
+
+/* Modern card-style sections */
+.research-section {
+  background: #ffffff;
+  border-radius: $border-radius;
+  padding: 2em;
+  margin: 2em 0;
+  box-shadow: $box-shadow;
+  border: 1px solid $border-color;
+  transition: $global-transition;
+  
+  &:hover {
+    box-shadow: $box-shadow-lg;
+    transform: translateY(-2px);
+  }
+  
+  h2 {
+    color: $primary-color;
+    border-bottom: 2px solid $primary-color;
+    padding-bottom: 0.5em;
+    margin-top: 0;
+  }
+}
+
+/* Enhanced publication list */
+.publication-list {
+  ul {
+    list-style: none;
+    padding: 0;
+    
+    li {
+      padding: 1em;
+      margin: 1em 0;
+      background: #f8f9fa;
+      border-radius: $border-radius;
+      border-left: 4px solid $primary-color;
+      transition: $global-transition;
+      
+      &:hover {
+        background: #e9ecef;
+        transform: translateX(5px);
+      }
+      
+      a {
+        color: $primary-color;
+        font-weight: 600;
+        text-decoration: none;
+        
+        &:hover {
+          color: darken($primary-color, 15%);
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+/* Modern button styles */
+.btn-modern {
+  display: inline-block;
+  padding: 0.75em 1.5em;
+  background: $primary-color;
+  color: white;
+  text-decoration: none;
+  border-radius: $border-radius;
+  font-weight: 600;
+  transition: $global-transition;
+  box-shadow: $box-shadow;
+  
+  &:hover {
+    background: darken($primary-color, 10%);
+    transform: translateY(-2px);
+    box-shadow: $box-shadow-lg;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+/* Enhanced code blocks */
+code {
+  background: $code-background-color;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: $monospace;
+  font-size: 0.9em;
+  border: 1px solid $border-color;
+}
+
+pre {
+  background: $code-background-color;
+  padding: 1.5em;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+  overflow-x: auto;
+  box-shadow: $box-shadow;
+  
+  code {
+    background: none;
+    padding: 0;
+    border: none;
+  }
+}
+
+/* Modern table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  box-shadow: $box-shadow;
+  border-radius: $border-radius;
+  overflow: hidden;
+  
+  th, td {
+    padding: 1em;
+    text-align: left;
+    border-bottom: 1px solid $border-color;
+  }
+  
+  th {
+    background: $primary-color;
+    color: white;
+    font-weight: 600;
+  }
+  
+  tr:hover {
+    background: #f8f9fa;
+  }
+}
+
+/* Enhanced blockquotes */
+blockquote {
+  background: #f8f9fa;
+  border-left: 4px solid $primary-color;
+  padding: 1.5em;
+  margin: 2em 0;
+  border-radius: 0 $border-radius $border-radius 0;
+  box-shadow: $box-shadow;
+  
+  p {
+    margin: 0;
+    font-style: italic;
+    color: $text-color;
+  }
+}
+
+/* Modern list styles */
+ul, ol {
+  li {
+    margin: 0.5em 0;
+    line-height: 1.6;
+  }
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  .research-section {
+    padding: 1.5em;
+    margin: 1em 0;
+  }
+  
+  .publication-list ul li {
+    padding: 0.75em;
+  }
+  
+  table {
+    font-size: 0.9em;
+    
+    th, td {
+      padding: 0.75em 0.5em;
+    }
+  }
+}
+
+/* Animation for page load */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page__content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Enhanced focus states for accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid $primary-color;
+  outline-offset: 2px;
+}
+
+/* Modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $primary-color;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: darken($primary-color, 10%);
+}

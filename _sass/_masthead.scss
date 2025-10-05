@@ -5,11 +5,15 @@
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 250, 252, 0.95) 100%);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
 
   &__inner-wrap {
     @include container;
@@ -48,6 +52,28 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 1.125em;
+    color: $text-color;
+    transition: $global-transition;
+    
+    &:hover {
+      color: $primary-color;
+      transform: translateY(-1px);
+    }
+  }
+  
+  a {
+    color: $text-color;
+    font-weight: 500;
+    padding: 0.5em 1em;
+    border-radius: $border-radius;
+    transition: $global-transition;
+    
+    &:hover {
+      color: $primary-color;
+      background-color: rgba($primary-color, 0.1);
+      transform: translateY(-1px);
+    }
   }
 }
