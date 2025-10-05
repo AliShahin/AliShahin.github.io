@@ -57,7 +57,7 @@ My research initiates a fundamental question:
 
 <div class="publication-list">
 <ul>
-<li>Verifiable alignment: <a href="https://alishahin.github.io/">SURE: SecUrely REpairs failures flagged by users</a> [ICML'2025]</li>
+<li>Verifiable alignment: <a href="https://alishahin.github.io/">SURE: SecUrely REpairs failures flagged by users</a> [NeurIPS'2025]</li>
 <li>Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968">Confidential Guardian</a> [ICML'2025]</li>
 <li>Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe">Confidential-DPproof</a> [ICLR'2024]</li>
 <li>Verifiable Fairness: <a href="https://openreview.net/forum?id=iIfDQVyuFD">Confidential-PROFITT</a> [ICLR'2023], <a href="https://arxiv.org/pdf/2410.02777">OATH</a> [NeurIPS'2025]</li>
