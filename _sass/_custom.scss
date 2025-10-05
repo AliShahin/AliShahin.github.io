@@ -485,20 +485,21 @@ button:focus {
   background: #2c5aa0;
 }
 
-/* Twitter Timeline Styling */
+/* X Timeline Styling */
 .twitter-timeline-wrapper {
   margin: 1em 0;
   border-radius: 8px;
   overflow: hidden;
   background: #1a1a1a;
   border: 1px solid #404040;
+  min-height: 400px;
   
   .twitter-timeline {
     border-radius: 8px !important;
   }
 }
 
-/* Override Twitter widget styles for dark theme */
+/* Override X widget styles for dark theme */
 .twitter-timeline {
   background: #1a1a1a !important;
   color: #e5e5e5 !important;
@@ -519,4 +520,14 @@ button:focus {
   .timeline-Tweet-metadata {
     color: #9ca3af !important;
   }
+}
+
+/* Loading state for X timeline */
+.twitter-timeline-wrapper:empty::before {
+  content: "Loading posts from X...";
+  display: block;
+  padding: 2em;
+  text-align: center;
+  color: #9ca3af;
+  font-style: italic;
 }
