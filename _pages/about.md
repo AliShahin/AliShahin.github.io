@@ -24,8 +24,7 @@ redirect_from:
 
 
 <div class="research-section">
-
-## Blog Posts and Press
+<h2>Blog Posts and Press</h2>
 
 <ul>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
@@ -49,8 +48,7 @@ redirect_from:
 
 
 <div class="research-section">
-
-## Research
+<h2>Research</h2>
 
 My research initiates a fundamental question: 
 <strong> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </strong>

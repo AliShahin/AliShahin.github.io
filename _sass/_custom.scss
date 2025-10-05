@@ -23,6 +23,14 @@
     padding-bottom: 0.5em;
     margin-top: 0;
   }
+  
+  /* Also target h2 that might be in the next line after div */
+  & + h2 {
+    color: #3182ce !important;
+    border-bottom: 2px solid #3182ce !important;
+    padding-bottom: 0.5em;
+    margin-top: 0;
+  }
 }
 
 /* Enhanced publication list */
@@ -82,6 +90,23 @@
     color: #2c5aa0 !important;
     text-decoration: underline !important;
   }
+}
+
+/* Target h2 that follows research-section div (for Markdown structure) */
+.research-section + h2,
+.research-section h2 {
+  color: #3182ce !important;
+  border-bottom: 2px solid #3182ce !important;
+  padding-bottom: 0.5em;
+  margin-top: 0;
+}
+
+/* Also target any h2 that appears after research-section in the flow */
+.page__content .research-section ~ h2 {
+  color: #3182ce !important;
+  border-bottom: 2px solid #3182ce !important;
+  padding-bottom: 0.5em;
+  margin-top: 0;
 }
 
 /* Modern button styles */
