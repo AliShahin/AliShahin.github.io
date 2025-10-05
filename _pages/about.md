@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p>
-  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now expanding into product strategy and cross-functional leadership) at <a href="https://brave.com">Brave Software</a>. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
+  This is Dr Ali Shahin Shamsabadi (<a href="mailto:ashahinshamsabadi@brave.com">ashahinshamsabadi@brave.com</a>)! I am a Senior Research Scientist (now expanding into product strategy and cross-functional leadership too) at <a href="https://brave.com">Brave Software</a>. I collaborate across disciplines and organizations to turn scientific insights into innovative, impactful products. Before joining Brave Software, I was a Research Scientist at 
   <a href="https://www.turing.ac.uk">The Alan Turing Institute</a> (Safe and Ethical AI) under the supervision of 
   <a href="http://mlg.eng.cam.ac.uk/adrian/">Adrian Weller</a>, and a Postdoctoral Fellow at 
   <a href="https://vectorinstitute.ai">Vector Institute</a> under the supervision of 
