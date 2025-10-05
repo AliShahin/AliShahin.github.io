@@ -41,42 +41,74 @@ document.addEventListener('DOMContentLoaded', function() {
   // Highlight current section
   function highlightCurrentSection() {
     const sections = document.querySelectorAll('.research-section h2, h2');
-    const scrollPos = window.scrollY + 100;
+    const scrollPos = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    const offset = 100;
     
     let currentSection = '';
-    sections.forEach(section => {
+    for (let i = 0; i < sections.length; i++) {
+      const section = sections[i];
       const sectionTop = section.offsetTop;
       const sectionHeight = section.offsetHeight;
       
-      if (scrollPos >= sectionTop && scrollPos < sectionTop + sectionHeight) {
+      if (scrollPos + offset >= sectionTop && scrollPos + offset < sectionTop + sectionHeight) {
         currentSection = section.id || section.textContent.toLowerCase().replace(/\s+/g, '-');
+        break;
       }
-    });
+    }
     
     // Update active link
-    tocLinks.forEach(link => {
+    for (let i = 0; i < tocLinks.length; i++) {
+      const link = tocLinks[i];
       link.classList.remove('toc-active');
       if (link.getAttribute('href') === '#' + currentSection) {
         link.classList.add('toc-active');
       }
-    });
+    }
   }
   
   // Smooth scroll to sections
-  tocLinks.forEach(link => {
+  for (let i = 0; i < tocLinks.length; i++) {
+    const link = tocLinks[i];
     link.addEventListener('click', function(e) {
       e.preventDefault();
       const targetId = this.getAttribute('href').substring(1);
       const targetElement = document.getElementById(targetId);
       
       if (targetElement) {
-        targetElement.scrollIntoView({
-          behavior: 'smooth',
-          block: 'start'
-        });
+        // Safari-compatible smooth scroll
+        if ('scrollBehavior' in document.documentElement.style) {
+          targetElement.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        } else {
+          // Fallback for older browsers
+          const targetPosition = targetElement.offsetTop - 80;
+          const startPosition = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+          const distance = targetPosition - startPosition;
+          const duration = 500;
+          let start = null;
+          
+          function animation(currentTime) {
+            if (start === null) start = currentTime;
+            const timeElapsed = currentTime - start;
+            const run = ease(timeElapsed, startPosition, distance, duration);
+            window.scrollTo(0, run);
+            if (timeElapsed < duration) requestAnimationFrame(animation);
+          }
+          
+          function ease(t, b, c, d) {
+            t /= d / 2;
+            if (t < 1) return c / 2 * t * t + b;
+            t--;
+            return -c / 2 * (t * (t - 2) - 1) + b;
+          }
+          
+          requestAnimationFrame(animation);
+        }
       }
     });
-  });
+  }
   
   // Listen for scroll events
   window.addEventListener('scroll', highlightCurrentSection);
