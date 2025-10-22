@@ -18,6 +18,10 @@ layout: compress
 
     {{ content }}
 
+    {% if page.show_toc %}
+      {% include toc.html %}
+    {% endif %}
+
     </script>
 
     <div class="page__footer">

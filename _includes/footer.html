@@ -6,22 +6,22 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}">
+      <li><a href="https://twitter.com/{{ site.twitter.username }}" class="social-link">
         <!-- X (formerly Twitter) SVG icon -->
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="16" height="16" style="vertical-align:middle; margin-right:2px; fill:#222;"><path d="M1199.61 21.5H974.09L600.01 505.13 225.91 21.5H.39l464.6 606.6L0 1205.5h225.91l374.1-504.13 374.1 504.13h225.49l-464.6-577.4 464.61-606.6z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="20" height="20" style="vertical-align:middle; margin-right:8px; fill:currentColor;"><path d="M1199.61 21.5H974.09L600.01 505.13 225.91 21.5H.39l464.6 606.6L0 1205.5h225.91l374.1-504.13 374.1 504.13h225.49l-464.6-577.4 464.61-606.6z"/></svg>
         X
       </a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://facebook.com/{{ site.facebook.username }}" class="social-link"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="http://github.com/{{ site.author.github }}" class="social-link"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
     {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" class="social-link"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" class="social-link"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
 

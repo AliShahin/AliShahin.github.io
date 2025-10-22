@@ -1,0 +1,143 @@
+<!-- Table of Contents Sidebar -->
+<div id="toc-sidebar" class="toc-sidebar">
+  <div class="toc-header">
+    <h3>Contents</h3>
+    <button id="toc-toggle" class="toc-toggle" aria-label="Toggle table of contents">
+      <span class="toc-toggle-icon">×</span>
+    </button>
+  </div>
+  <nav class="toc-nav">
+    <ul class="toc-list">
+      <li class="toc-item">
+        <a href="#blog-posts" class="toc-link">Blog Posts and Press</a>
+      </li>
+      <li class="toc-item">
+        <a href="#research" class="toc-link">Research</a>
+      </li>
+      <li class="toc-item">
+        <a href="#product" class="toc-link">Product</a>
+      </li>
+      <li class="toc-item">
+        <a href="#recent-students" class="toc-link">Recent Students</a>
+      </li>
+      <li class="toc-item">
+        <a href="#news" class="toc-link">News</a>
+      </li>
+      <li class="toc-item">
+        <a href="#pc-services" class="toc-link">PC services</a>
+      </li>
+      <li class="toc-item">
+        <a href="#selected-research-talks" class="toc-link">Selected Research Talks</a>
+      </li>
+      <li class="toc-item">
+        <a href="#talks" class="toc-link">Talks</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tocSidebar = document.getElementById('toc-sidebar');
+  const tocToggle = document.getElementById('toc-toggle');
+  const tocLinks = document.querySelectorAll('.toc-link');
+  
+  // Toggle sidebar
+  tocToggle.addEventListener('click', function() {
+    tocSidebar.classList.toggle('toc-collapsed');
+  });
+  
+  // Highlight current section
+  function highlightCurrentSection() {
+    const sections = document.querySelectorAll('h2[id]');
+    const scrollPos = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    const offset = 100; // Reduced offset for better detection
+    
+    let currentSection = '';
+    
+    // Find the section that's currently in view
+    for (let i = sections.length - 1; i >= 0; i--) {
+      const section = sections[i];
+      const sectionTop = section.offsetTop;
+      
+      if (scrollPos + offset >= sectionTop) {
+        currentSection = section.id;
+        break;
+      }
+    }
+    
+    // If no section found, check if we're at the top
+    if (!currentSection && scrollPos < 200) {
+      currentSection = 'blog-posts'; // Default to first section
+    }
+    
+    // Update active link
+    for (let i = 0; i < tocLinks.length; i++) {
+      const link = tocLinks[i];
+      link.classList.remove('toc-active');
+      if (link.getAttribute('href') === '#' + currentSection) {
+        link.classList.add('toc-active');
+      }
+    }
+  }
+  
+  // Smooth scroll to sections
+  for (let i = 0; i < tocLinks.length; i++) {
+    const link = tocLinks[i];
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').substring(1);
+      const targetElement = document.getElementById(targetId);
+      
+      if (targetElement) {
+        // Safari-compatible smooth scroll
+        if ('scrollBehavior' in document.documentElement.style) {
+          targetElement.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        } else {
+          // Fallback for older browsers
+          const targetPosition = targetElement.offsetTop - 80;
+          const startPosition = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+          const distance = targetPosition - startPosition;
+          const duration = 500;
+          let start = null;
+          
+          function animation(currentTime) {
+            if (start === null) start = currentTime;
+            const timeElapsed = currentTime - start;
+            const run = ease(timeElapsed, startPosition, distance, duration);
+            window.scrollTo(0, run);
+            if (timeElapsed < duration) requestAnimationFrame(animation);
+          }
+          
+          function ease(t, b, c, d) {
+            t /= d / 2;
+            if (t < 1) return c / 2 * t * t + b;
+            t--;
+            return -c / 2 * (t * (t - 2) - 1) + b;
+          }
+          
+          requestAnimationFrame(animation);
+        }
+      }
+    });
+  }
+  
+  // Throttled scroll listener for better performance
+  let scrollTimeout;
+  function throttledHighlight() {
+    if (scrollTimeout) {
+      clearTimeout(scrollTimeout);
+    }
+    scrollTimeout = setTimeout(highlightCurrentSection, 10);
+  }
+  
+  // Listen for scroll events
+  window.addEventListener('scroll', throttledHighlight);
+  
+  // Initial highlight
+  highlightCurrentSection();
+});
+</script>
