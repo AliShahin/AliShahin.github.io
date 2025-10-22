@@ -7,6 +7,8 @@ author_profile: true
 
 # Test Page
 
+Navigating to [https://openai.com/](https://openai.com/)
+
 This is a simple test page created for development and testing purposes.
 
 ## Features Being Tested
