@@ -30,6 +30,7 @@ redirect_from:
 
 <div class="publication-list">
 <ul>
+  <li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a></li>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
   <li><a href="https://brave.com/blog/nebula/">Differentially private data collection</a></li>
   <li><a href="https://brave.com/confidential-dpproof/">Verifiable differentially private ML</a></li>
@@ -102,6 +103,12 @@ My research initiates a fundamental question:
 
 <div class="research-section">
 <h2 id="product">Product</h2>
+
+<h3>Verifiable Privacy and Transparency in AI assistants</h3>
+<p><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>: Confidential LLM Computing on NEAR AI NVIDIA-backed Trusted Execution Environments to offer cryptographically-verifiable privacy and transparency. Users must be able to verify that Chatbot’s privacy guarantees match public privacy promises. Users must be able to verify that Chatbot’s responses are, in fact, coming from a machine learning model the user expects (or pays for).
+These user-first features are available in Brave browser’s integrated AI assistant, <a href="https://brave.com/leo/">Leo</a>.
+</p>
+
 
 <h3>Privacy Preserving Product Analytics</h3>
 <p><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</p>
