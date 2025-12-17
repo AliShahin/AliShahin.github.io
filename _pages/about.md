@@ -45,7 +45,16 @@ redirect_from:
   </a> and 
   <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">
     TuringTop10
-  </a>.
+  </a> and
+  <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">
+    The Register
+  </a> and
+  <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">
+    Privacy Guides
+  </a> and
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">
+    StartupHub.ai
+  </a>
 </p>
 </div>
 
