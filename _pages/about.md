@@ -39,27 +39,16 @@ redirect_from:
 </ul>
 </div>
 <p>
-  My work has been cited in the press including 
-  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">
-    Thurrott
-  </a>, 
-  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">
-    TuringTop10
-  </a>,
-  <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">
-    The Register
-  </a>,
-  <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">
-    Privacy Guides
-  </a>,
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">
-    StartupHub.ai
-  </a> and
-  <a href="https://cyberinsider.com/braves-ai-assistant-leo-now-offers-cryptographically-proven-privacy/">
-    Cyber Insider
-  </a>.
+  My work has been cited in the press including
+  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">Thurrott</a>,
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">TuringTop10</a>,
+  <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">The Register</a>,
+  <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">Privacy Guides</a>,
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">StartupHub.ai</a> and
+  <a href="https://cyberinsider.com/braves-ai-assistant-leo-now-offers-cryptographically-proven-privacy/">Cyber Insider</a>.
 </p>
 </div>
+
 
 
 
