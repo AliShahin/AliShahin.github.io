@@ -54,7 +54,10 @@ redirect_from:
   </a> and
   <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">
     StartupHub.ai
-  </a>
+  </a> and
+  <a href="https://cyberinsider.com/braves-ai-assistant-leo-now-offers-cryptographically-proven-privacy/">
+    Cyber Insider
+  </a>.
 </p>
 </div>
 
