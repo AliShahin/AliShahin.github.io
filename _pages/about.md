@@ -146,7 +146,7 @@ These user-first features are available in Brave browser’s integrated AI assis
 
 <div class="publication-list">
 <ul>
-<li><strong>[November 2025]</strong> Launched  <a [href="https://neurips.cc/](https://brave.com/blog/browser-ai-tee/)">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
+<li><strong>[November 2025]</strong> Launched  <a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
 <li><strong>[September 2025]</strong> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems <a href="https://neurips.cc/">NeurIPS 2025</a>, called <a href="https://alishahin.github.io/">Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services</a> and <a href="https://alishahin.github.io/">Secure and Confidential Certificates of Online Fairness</a>.</li>
 <li><strong>[August 2025]</strong> Two papers accepted at the conference on Empirical Methods in Natural Language Processing <a href="https://2025.emnlp.org/">EMNLP 2025</a>, called <a href="https://arxiv.org/abs/2508.07054">Membership and Memorization in LLM Knowledge Distillation</a> and <a href="https://arxiv.org/abs/2409.13745">Context-Aware Membership Inference Attacks against Pre-trained Large Language Models</a>.</li>
 <li><strong>[May 2025]</strong> Paper accepted at the 32nd ACM Conference on Computer and Communications Security <a href="https://www.sigsac.org/ccs/CCS2025/">CCS2025</a>, called <a href="https://arxiv.org/pdf/2409.09676">Nebula: Efficient, Private and Accurate Histogram Estimation</a>.</li>
@@ -202,7 +202,7 @@ These user-first features are available in Brave browser’s integrated AI assis
 
 <div class="publication-list">
 <ul>
-<li>2025: ICLR'2025, NeurIPS'2025 (Top Reviewer)
+<li>2025: ICLR'2025, NeurIPS'2025 (Top Reviewer)</li>
 <li>2024: PETs'2024, ICLR'2024, <a href="https://pml-workshop.github.io/iclr24/">ICLR Private ML workshop</a></li>
 <li>2023: NeurIPS'2023, CCS'2023, AISTATS'2023, <a href="https://fl-icml2023.github.io">ICML 2023 workshop federated learning</a></li>
 <li>2022: ICML'2022, TIFS'2022, TOPS'2022, <a href="https://sites.google.com/view/2022-workshop-explainable-ai/">Explainable AI in Finance</a></li>
