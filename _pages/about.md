@@ -146,6 +146,7 @@ These user-first features are available in Brave browser’s integrated AI assis
 
 <div class="publication-list">
 <ul>
+<li><strong>[December 2025]</strong> A new preprint in the intersection of web agents and privacy:  <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>.</li>
 <li><strong>[November 2025]</strong> Launched  <a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
 <li><strong>[September 2025]</strong> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems <a href="https://neurips.cc/">NeurIPS 2025</a>, called <a href="https://alishahin.github.io/">Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services</a> and <a href="https://alishahin.github.io/">Secure and Confidential Certificates of Online Fairness</a>.</li>
 <li><strong>[August 2025]</strong> Two papers accepted at the conference on Empirical Methods in Natural Language Processing <a href="https://2025.emnlp.org/">EMNLP 2025</a>, called <a href="https://arxiv.org/abs/2508.07054">Membership and Memorization in LLM Knowledge Distillation</a> and <a href="https://arxiv.org/abs/2409.13745">Context-Aware Membership Inference Attacks against Pre-trained Large Language Models</a>.</li>
