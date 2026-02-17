@@ -114,10 +114,23 @@ These user-first features are available in Brave browser’s integrated AI assis
 <h3>Privacy Preserving Product Analytics</h3>
 <p><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</p>
 
-<h3>Privacy-Preserving Conversation Analytics</h3>
-<p>Coming soon.</p>
 
-<h3>Secure, Privacy-Preserving and Efficient Agents</h3>
+<h3>Privacy risks of Agents on the Web</h3>
+
+<p><a href="https://arxiv.org/pdf/2602.13516">SPILLAGE: Agentic Oversharing on the Web</a>. How effectively do web agents preserve and respect
+user privacy expectations when acting on users’ behalf across live websites? Agents naturally overshare, making them much more public about what users expect to be private. </p>
+
+
+<p><a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>: presents a systematic evaluation of the privacy behaviors and attributes of web agents: i) vulnerabilities in the browser agent’s components, ii) how the browser agent protects against website behaviors; iii) whether the browser agent prevents cross-site tracking; iv) how the agent responds to privacy-affecting prompts; and v) whether the tool leaks personal information to sites.  </p>
+
+
+<h3>Secure Agents</h3>
+<p><a href="https://brave.com/blog/ai-browsing/">BraveGuard</a>: provides the best possible protection against indirect prompt injections via a hybrid approach combining an alignment checker with a security-aware system prompt.</p>
+
+<h3>Efficient Agents</h3>
+<p> coming soon.</p>
+
+<h3>Privacy-Preserving Conversation Analytics</h3>
 <p>Coming soon.</p>
 
 </div> 
