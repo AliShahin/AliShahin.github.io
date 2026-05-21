@@ -160,6 +160,7 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <div class="publication-list">
 <ul>
+<li><strong>[May 2026]</strong> Paper accepted at the ACM Conference on AI and Agentic Systems <a href="https://www.caisconf.org">CAIS2026</a>, called <a href="https://arxiv.org/abs/2605.15206">AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices</a>.</li>
 <li><strong>[December 2025]</strong> A new preprint in the intersection of web agents and privacy:  <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>.</li>
 <li><strong>[November 2025]</strong> Launched  <a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
 <li><strong>[September 2025]</strong> Two papers accepted at The Thirty-Ninth Annual Conference on Neural Information Processing Systems <a href="https://neurips.cc/">NeurIPS 2025</a>, called <a href="https://alishahin.github.io/">Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services</a> and <a href="https://alishahin.github.io/">Secure and Confidential Certificates of Online Fairness</a>.</li>
