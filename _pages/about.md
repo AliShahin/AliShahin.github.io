@@ -142,9 +142,9 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <div class="publication-list">
 <ul>
-<li><a href="https://jrohsc.github.io/">Jaechul Roh</a>: Brave PhD Intern (Summer 2025), Project: Privacy of web agents</li>
-<li><a href="https://dzungvpham.github.io/">Dzung V. Pham</a>: Brave PhD Intern (Summer 2025), Project: Efficiency of web agents</li>
-<li><a href="https://www.alishaukani.com/">Alisha Ukani</a>: Brave PhD Intern (Summer 2025), Project: Intersection of Browser privacy and Web agents</li>
+<li><a href="https://jrohsc.github.io/">Jaechul Roh</a>: Brave PhD Intern (Summer 2025), Project: <a href="https://arxiv.org/pdf/2602.13516">SPILLAGE: Agentic Oversharing on the Web</a></li>
+<li><a href="https://dzungvpham.github.io/">Dzung V. Pham</a>: Brave PhD Intern (Summer 2025), Project: <a href="https://arxiv.org/pdf/2605.15206">AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices</a></li>
+<li><a href="https://www.alishaukani.com/">Alisha Ukani</a>: Brave PhD Intern (Summer 2025), Project: <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a></li>
 <li><a href="https://saiid.ch/">Saiid El Hajj Chehade</a>: Brave PhD Visitor (Summer 2025), Project: Optimizing web presentation for agents</li>
 <li><a href="https://www.comp.nus.edu.sg/~hongyan/">Hongyan Chang</a>: Brave PhD Intern (Summer 2024), Project: <a href="https://arxiv.org/pdf/2409.13745">Context-Aware Membership Inference Attacks against Pre-trained Large Language Models</a></li>
 <li><a href="https://scholar.google.com/citations?hl=en&user=V0918CIAAAAJ&view_op=list_works&sortby=pubdate">Olive Franzese</a>: Brave PhD Intern (Summer 2024), Project: <a href="https://arxiv.org/pdf/2410.02777">OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness</a></li>
