@@ -30,6 +30,7 @@ redirect_from:
 
 <div class="publication-list">
 <ul>
+  <li><a href="https://brave.com/blog/indirect-prompt-injection//">Indirect Prompt Injection remains a fundamental security challenge for AI, whether cloud or local model hosting</a></li>
   <li><a href="https://brave.com/blog/agentic-oversharing/">Privacy risks of agentic oversharing on the Web</a></li>
   <li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a></li>
   <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
