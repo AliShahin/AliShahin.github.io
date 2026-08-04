@@ -258,7 +258,10 @@ user privacy expectations when acting on users’ behalf across live websites? A
       <iframe width="320" height="180" src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>EdgeFool: Adversarial Image Enhancement (ICASSP 2020)</div>
     </td>
-    <td style="border:none;"></td>
+    <td style="border:none;">
+      <iframe width="320" height="180" src="https://www.youtube.com/watch?v=9K1AxqHp1Tc" frameborder="0" allowfullscreen></iframe>
+      <div style='text-align:center; font-weight:bold;'>Beyond Trust: Proving Fairness and Privacy in Machine Learning</div>
+    </td>
   </tr>
 </table>
 
