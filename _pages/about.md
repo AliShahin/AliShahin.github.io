@@ -237,29 +237,29 @@ user privacy expectations when acting on users’ behalf across live websites? A
 <table style="border-collapse:collapse; border:none;">
   <tr>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/uvc49vW-UUI?si=RLddB3SNoVG7PGyT" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/uvc49vW-UUI" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>Differentially Private Speaker Anonymization (PETS 2023)</div>
     </td>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/-GE8BUZzjlo?si=7btFNQyMkYN7SSwO" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/-GE8BUZzjlo" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>Mnemonist: Locating Model Parameters (UAI 2023)</div>
     </td>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/Eet3AJeqTEY?si=J98i0-1JG7DjB8_u" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/Eet3AJeqTEY" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>Losing Less: A Loss for DP Deep Learning (PETS 2023)</div>
     </td>
   </tr>
   <tr>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/fGw1ZiqOrWo?si=pTeOkyX3vPpuGr1F" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/fGw1ZiqOrWo" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>ColorFool: Semantic Adversarial Colorization (CVPR 2020)</div>
     </td>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/jzoo5USTUSs?si=f1NjfhT9xxyMb_t5" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/jzoo5USTUSs" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>EdgeFool: Adversarial Image Enhancement (ICASSP 2020)</div>
     </td>
     <td style="border:none;">
-      <iframe width="320" height="180" src="https://www.youtube.com/embed/9K1AxqHp1Tc" frameborder="0" allowfullscreen></iframe>
+      <iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/9K1AxqHp1Tc" frameborder="0" allowfullscreen></iframe>
       <div style='text-align:center; font-weight:bold;'>Beyond Trust: Proving Fairness and Privacy in Machine Learning</div>
     </td>
   </tr>
