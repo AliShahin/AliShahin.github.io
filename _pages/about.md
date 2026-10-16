@@ -105,34 +105,45 @@ My research initiates a fundamental question:
 <h2 id="product">Product</h2>
 
 <h3>Verifiable Privacy and Transparency in AI assistants</h3>
-<p><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>: Confidential LLM Computing on NEAR AI NVIDIA-backed Trusted Execution Environments to offer cryptographically-verifiable privacy and transparency. Users must be able to verify that Chatbot’s privacy guarantees match public privacy promises. Users must be able to verify that Chatbot’s responses are, in fact, coming from a machine learning model the user expects (or pays for).
-These user-first features are available in Brave browser’s integrated AI assistant, <a href="https://brave.com/leo/">Leo</a>.
-</p>
-<p><a href="https://brave.com/blog/browser-ai-e2ee/">Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a>: Leo chats with the open-weight GLM 5.3 Flash model are now end-to-end encrypted. The Brave browser encrypts each prompt on the user’s device with Oblivious HTTP (OHTTP), so only an attested, Nvidia-backed Trusted Execution Environment can decrypt it and run confidential LLM inference. Prompts are routed through Brave’s open-source AI Gateway, which hides the user’s IP address from the AI provider, and hardware-enforced isolation protects prompts and responses even from Brave and NEAR AI.
-</p>
-
+<div class="publication-list">
+<ul>
+<li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>: Confidential LLM Computing on NEAR AI NVIDIA-backed Trusted Execution Environments to offer cryptographically-verifiable privacy and transparency. Users must be able to verify that Chatbot’s privacy guarantees match public privacy promises. Users must be able to verify that Chatbot’s responses are, in fact, coming from a machine learning model the user expects (or pays for).
+These user-first features are available in Brave browser’s integrated AI assistant, <a href="https://brave.com/leo/">Leo</a>.</li>
+<li><a href="https://brave.com/blog/browser-ai-e2ee/">Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a>: Leo chats with the open-weight GLM 5.3 Flash model are now end-to-end encrypted. The Brave browser encrypts each prompt on the user’s device with Oblivious HTTP (OHTTP), so only an attested, Nvidia-backed Trusted Execution Environment can decrypt it and run confidential LLM inference. Prompts are routed through Brave’s open-source AI Gateway, which hides the user’s IP address from the AI provider, and hardware-enforced isolation protects prompts and responses even from Brave and NEAR AI.
+<br>Coverage: <a href="https://www.theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462">The Register</a>, <a href="https://cyberinsider.com/brave-adds-end-to-end-encryption-to-chats-with-ai-assistant-leo/">CyberInsider</a>, <a href="https://www.thurrott.com/cloud/web-browsers/342918/brave-leo-gets-end-to-end-encrypted-chat">Thurrott</a>, <a href="https://www.startuphub.ai/ai-news/technology/2026/brave-leo-locks-chats-inside-hardware">StartupHub.ai</a>, <a href="https://windowsforum.com/news/brave-leo-adds-end-to-end-encrypted-ai-chats-with-glm-5-3-flash-and-ohttp.448639/">Windows Forum</a>, <a href="https://goodtech.info/brave-leo-chiffrement-bout-en-bout-near-ai-confidentialite/">Goodtech</a>, <a href="https://questreviewcenter.com/software-reviews/brave-encrypts-leo-ai-chats-before-they-leave-the-browser/">Quest Review Center</a>, <a href="https://www.technobezz.com/news/brave-adds-encryption-leo-glm-flash">TechnoBezz</a>, <a href="https://cryptonews.net/news/altcoins/33599710/">CryptoNews</a> and <a href="https://www.tokenpost.com/news/technology/32970">TokenPost</a>.</li>
+</ul>
+</div>
 
 <h3>Privacy Preserving Product Analytics</h3>
-<p><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</p>
-
+<div class="publication-list">
+<ul>
+<li><a href="https://brave.com/blog/nebula/">Nebula</a>: a novel, practical and best-in-class system for product usage analytics with differential privacy guarantees! Nebula puts users first in product analytics: i) Formal Differential Privacy Protection; ii) Auditability, Verifiability, and Transparency; and iii) Efficiency with Minimal Impact.</li>
+</ul>
+</div>
 
 <h3>Privacy risks of Agents on the Web</h3>
-
-<p><a href="https://arxiv.org/pdf/2602.13516">SPILLAGE: Agentic Oversharing on the Web</a>. How effectively do web agents preserve and respect
-user privacy expectations when acting on users’ behalf across live websites? Agents naturally overshare, making them much more public about what users expect to be private. </p>
-
-
-<p><a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>: presents a systematic evaluation of the privacy behaviors and attributes of web agents: i) vulnerabilities in the browser agent’s components, ii) how the browser agent protects against website behaviors; iii) whether the browser agent prevents cross-site tracking; iv) how the agent responds to privacy-affecting prompts; and v) whether the tool leaks personal information to sites.  </p>
-
+<div class="publication-list">
+<ul>
+<li><a href="https://arxiv.org/pdf/2602.13516">SPILLage: Agentic Oversharing on the Web</a>. How effectively do web agents preserve and respect
+user privacy expectations when acting on users’ behalf across live websites? Agents naturally overshare, making them much more public about what users expect to be private.</li>
+<li><a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>: presents a systematic evaluation of the privacy behaviors and attributes of web agents: i) vulnerabilities in the browser agent’s components, ii) how the browser agent protects against website behaviors; iii) whether the browser agent prevents cross-site tracking; iv) how the agent responds to privacy-affecting prompts; and v) whether the tool leaks personal information to sites.</li>
+</ul>
+</div>
 
 <h3>Secure Agents</h3>
-<p><a href="https://brave.com/blog/ai-browsing/">BraveGuard</a>: provides the best possible protection against indirect prompt injections via a hybrid approach combining an alignment checker with a security-aware system prompt.</p>
-<p><a href="https://github.com/brave/bravebot">Brave Bot</a>: a general-purpose coding agent with structural resistance to indirect prompt injection, designed and built in public as open source. Before data is processed, it is labelled as trusted or untrusted and as public or private; untrusted content is only ever handled by tool-less processors and never enters the planner’s context, so a web page cannot redirect an agent working on the user’s behalf. Its research driver and proof of concept is <a href="https://github.com/brave-experiments/safehouse">SafeHouse</a>, our open-source work on structurally secure web agents.</p>
+<div class="publication-list">
+<ul>
+<li><a href="https://brave.com/blog/ai-browsing/">BraveGuard</a>: provides the best possible protection against indirect prompt injections via a hybrid approach combining an alignment checker with a security-aware system prompt.</li>
+<li><a href="https://github.com/brave/bravebot">Brave Bot</a>: a general-purpose coding agent with structural resistance to indirect prompt injection, designed and built in public as open source. Before data is processed, it is labelled as trusted or untrusted and as public or private; untrusted content is only ever handled by tool-less processors and never enters the planner’s context, so a web page cannot redirect an agent working on the user’s behalf. Its research driver and proof of concept is <a href="https://github.com/brave-experiments/safehouse">SafeHouse</a>, our open-source work on structurally secure web agents.</li>
+</ul>
+</div>
 
 <h3>Efficient Agents</h3>
-<p><a href="https://dl.acm.org/doi/pdf/10.1145/3786335.3813163">AgentStop</a>: a lightweight efficiency supervisor that predicts and preemptively terminates local AI agent trajectories unlikely to succeed, reducing wasted energy on consumer devices by 15-20% with minimal impact on task performance.</p>
-
-
+<div class="publication-list">
+<ul>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/3786335.3813163">AgentStop</a>: a lightweight efficiency supervisor that predicts and preemptively terminates local AI agent trajectories unlikely to succeed, reducing wasted energy on consumer devices by 15-20% with minimal impact on task performance.</li>
+</ul>
+</div>
 </div>
 
 
