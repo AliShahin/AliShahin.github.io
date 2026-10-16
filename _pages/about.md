@@ -23,6 +23,10 @@ redirect_from:
   <a href="https://members.loria.fr/EVincent/">Emmanuel Vincent</a>.
 </p>
 
+<p>
+  <strong>Contributed to shaping frontier AI governance.</strong> Co-author, <a href="https://arxiv.org/pdf/2601.11699">Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies</a>, a cross-institutional effort proposing AI Assurance Levels for independent verification of frontier AI developers’ safety and security claims, alongside co-authors including Yoshua Bengio, Miles Brundage and Adrian Weller.
+</p>
+
 
 
 <div class="research-section">
