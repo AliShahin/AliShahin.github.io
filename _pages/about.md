@@ -181,8 +181,6 @@ user privacy expectations when acting on users’ behalf across live websites? A
 <div class="research-section">
 <h2 id="recent-students">Recent Students</h2>
 
-<p>I host PhD research interns at Brave. If you would like to work with me on secure, private and verifiable AI and AI agents, <a href="mailto:ashahinshamsabadi@brave.com">email me</a> with your CV.</p>
-
 <div class="publication-list">
 <ul>
 <li><a href="https://hyejunjeong.github.io/">Hyejun Jeong</a>: Brave PhD Intern (Summer 2026), Project: Securing the web environment for agents</li>
