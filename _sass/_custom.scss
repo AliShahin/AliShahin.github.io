@@ -218,6 +218,16 @@ ul, ol {
 
 /* Responsive improvements */
 @media (max-width: 768px) {
+  table.talks td {
+    display: block;
+  }
+
+  table.talks iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+
   .research-section {
     padding: 1.5em;
     margin: 1em 0;
