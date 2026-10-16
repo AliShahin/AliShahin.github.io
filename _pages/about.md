@@ -89,6 +89,7 @@ My research initiates a fundamental question:
 <div class="publication-list">
 <ul>
   <li>Privacy-preserving:
+    <a href="https://arxiv.org/pdf/2609.10104">Distributed and Private Textual Data Synthesis from Embeddings</a> [PETS'2027],
     <a href="https://petsymposium.org/popets/2023/popets-2023-0083.pdf">A Loss for Differentially Private Deep Learning</a> [PETS'2023],
     <a href="https://arxiv.org/pdf/2202.11823.pdf">Differentially Private Speaker Anonymization</a> [PETS'2023],
     <a href="https://arxiv.org/pdf/2203.00949.pdf">Differentially Private Graph Neural Networks</a> [USENIX'2022],
@@ -131,6 +132,7 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <h3>Secure Agents</h3>
 <p><a href="https://brave.com/blog/ai-browsing/">BraveGuard</a>: provides the best possible protection against indirect prompt injections via a hybrid approach combining an alignment checker with a security-aware system prompt.</p>
+<p><a href="https://github.com/brave/bravebot">Brave Bot</a>: a general-purpose coding agent with structural resistance to indirect prompt injection, designed and built in public as open source. Before data is processed, it is labelled as trusted or untrusted and as public or private; untrusted content is only ever handled by tool-less processors and never enters the planner’s context, so a web page cannot redirect an agent working on the user’s behalf.</p>
 
 <h3>Efficient Agents</h3>
 <p> coming soon.</p>
@@ -164,7 +166,9 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <div class="publication-list">
 <ul>
+<li><strong>[October 2026]</strong> Designing and building in public: <a href="https://github.com/brave/bravebot">Brave Bot</a>, an open-source coding agent with structural resistance to indirect prompt injection.</li>
 <li><strong>[October 2026]</strong> Launched <a href="https://brave.com/blog/browser-ai-e2ee/">Another Brave User-First AI Win: Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a>.</li>
+<li><strong>[September 2026]</strong> Paper accepted at the 27th Privacy Enhancing Technologies Symposium <a href="https://petsymposium.org/2027/">PETS2027</a>, called <a href="https://arxiv.org/abs/2609.10104">Distributed and Private Textual Data Synthesis from Embeddings</a>.</li>
 <li><strong>[May 2026]</strong> Paper accepted at the ACM Conference on AI and Agentic Systems <a href="https://www.caisconf.org">CAIS2026</a>, called <a href="https://arxiv.org/abs/2605.15206">AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices</a>.</li>
 <li><strong>[December 2025]</strong> A new preprint in the intersection of web agents and privacy:  <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>.</li>
 <li><strong>[November 2025]</strong> Launched  <a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
