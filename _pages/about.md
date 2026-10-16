@@ -112,6 +112,8 @@ My research initiates a fundamental question:
 <p><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>: Confidential LLM Computing on NEAR AI NVIDIA-backed Trusted Execution Environments to offer cryptographically-verifiable privacy and transparency. Users must be able to verify that Chatbot’s privacy guarantees match public privacy promises. Users must be able to verify that Chatbot’s responses are, in fact, coming from a machine learning model the user expects (or pays for).
 These user-first features are available in Brave browser’s integrated AI assistant, <a href="https://brave.com/leo/">Leo</a>.
 </p>
+<p><a href="https://brave.com/blog/browser-ai-e2ee/">Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a>: Leo chats with the open-weight GLM 5.3 Flash model are now end-to-end encrypted. The Brave browser encrypts each prompt on the user’s device with Oblivious HTTP (OHTTP), so only an attested, Nvidia-backed Trusted Execution Environment can decrypt it and run confidential LLM inference. Prompts are routed through Brave’s open-source AI Gateway, which hides the user’s IP address from the AI provider, and hardware-enforced isolation protects prompts and responses even from Brave and NEAR AI.
+</p>
 
 
 <h3>Privacy Preserving Product Analytics</h3>
@@ -162,6 +164,7 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <div class="publication-list">
 <ul>
+<li><strong>[October 2026]</strong> Launched <a href="https://brave.com/blog/browser-ai-e2ee/">Another Brave User-First AI Win: Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a>.</li>
 <li><strong>[May 2026]</strong> Paper accepted at the ACM Conference on AI and Agentic Systems <a href="https://www.caisconf.org">CAIS2026</a>, called <a href="https://arxiv.org/abs/2605.15206">AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices</a>.</li>
 <li><strong>[December 2025]</strong> A new preprint in the intersection of web agents and privacy:  <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a>.</li>
 <li><strong>[November 2025]</strong> Launched  <a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a>.</li>
