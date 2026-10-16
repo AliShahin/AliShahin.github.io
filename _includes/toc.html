@@ -9,13 +9,16 @@
   <nav class="toc-nav">
     <ul class="toc-list">
       <li class="toc-item">
-        <a href="#blog-posts" class="toc-link">Blog Posts and Press</a>
+        <a href="#highlights" class="toc-link">Highlights</a>
       </li>
       <li class="toc-item">
         <a href="#research" class="toc-link">Research</a>
       </li>
       <li class="toc-item">
         <a href="#product" class="toc-link">Product</a>
+      </li>
+      <li class="toc-item">
+        <a href="#blog-posts" class="toc-link">Blog Posts and Press</a>
       </li>
       <li class="toc-item">
         <a href="#recent-students" class="toc-link">Recent Students</a>
@@ -68,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // If no section found, check if we're at the top
     if (!currentSection && scrollPos < 200) {
-      currentSection = 'blog-posts'; // Default to first section
+      currentSection = 'highlights'; // Default to first section
     }
     
     // Update active link
