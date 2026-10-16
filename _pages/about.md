@@ -31,7 +31,7 @@ redirect_from:
 <li><strong>Contributed to shaping frontier AI governance.</strong> Co-author, <a href="https://arxiv.org/pdf/2601.11699">Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies</a>, a cross-institutional effort proposing AI Assurance Levels for independent verification of frontier AI developers’ safety and security claims, alongside co-authors including Yoshua Bengio, Miles Brundage and Adrian Weller.</li>
 <li><strong>Shipped verifiable privacy in Brave’s AI assistant, Leo.</strong> <a href="https://brave.com/blog/browser-ai-tee/">Confidential LLM inference in NVIDIA-backed Trusted Execution Environments</a> (2025), followed by <a href="https://brave.com/blog/browser-ai-e2ee/">end-to-end encryption with Oblivious HTTP</a> (2026), covered by <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">The Register</a> and <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">Privacy Guides</a>.</li>
 <li><strong>Shipped differentially private product analytics.</strong> <a href="https://brave.com/blog/nebula/">Nebula</a> brings formal differential privacy guarantees to Brave’s product usage analytics [CCS'2025].</li>
-<li><strong>Building secure agents in public.</strong> <a href="https://github.com/brave/bravebot">Brave Bot</a>, an open-source coding agent with structural resistance to indirect prompt injection.</li>
+<li><strong>Building secure agents in public.</strong> <a href="https://github.com/brave-experiments/safehouse">SafeHouse</a>, our research proof of concept for structurally secure web agents, drives <a href="https://github.com/brave/bravebot">Brave Bot</a>, an open-source coding agent with structural resistance to indirect prompt injection.</li>
 <li><strong>Recognition.</strong> ICLR'2024 spotlight, ICLR'2023 notable top 5%, Turing top 10 project of 2022-2023, NeurIPS'2025 Top Reviewer, and one of 200 young researchers selected for the 8th Heidelberg Laureate Forum.</li>
 </ul>
 </div>
@@ -51,7 +51,7 @@ My research initiates a fundamental question:
 <div class="publication-list">
 <ul>
 <li>Agent privacy: <a href="https://arxiv.org/pdf/2602.13516">SPILLage: Agentic Oversharing on the Web</a> [arXiv'2026], <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a> [arXiv'2025]</li>
-<li>Agent security: <a href="https://github.com/brave/bravebot">Brave Bot</a>, structural resistance to indirect prompt injection [open source]</li>
+<li>Agent security: <a href="https://github.com/brave-experiments/safehouse">SafeHouse</a>, structurally secure web agents and the research driver behind <a href="https://github.com/brave/bravebot">Brave Bot</a> [open source]</li>
 <li>Agent efficiency: <a href="https://dl.acm.org/doi/pdf/10.1145/3786335.3813163">AgentStop</a> [CAIS'2026]</li>
 </ul>
 </div>
@@ -127,7 +127,7 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 <h3>Secure Agents</h3>
 <p><a href="https://brave.com/blog/ai-browsing/">BraveGuard</a>: provides the best possible protection against indirect prompt injections via a hybrid approach combining an alignment checker with a security-aware system prompt.</p>
-<p><a href="https://github.com/brave/bravebot">Brave Bot</a>: a general-purpose coding agent with structural resistance to indirect prompt injection, designed and built in public as open source. Before data is processed, it is labelled as trusted or untrusted and as public or private; untrusted content is only ever handled by tool-less processors and never enters the planner’s context, so a web page cannot redirect an agent working on the user’s behalf.</p>
+<p><a href="https://github.com/brave/bravebot">Brave Bot</a>: a general-purpose coding agent with structural resistance to indirect prompt injection, designed and built in public as open source. Before data is processed, it is labelled as trusted or untrusted and as public or private; untrusted content is only ever handled by tool-less processors and never enters the planner’s context, so a web page cannot redirect an agent working on the user’s behalf. Its research driver and proof of concept is <a href="https://github.com/brave-experiments/safehouse">SafeHouse</a>, our open-source work on structurally secure web agents.</p>
 
 <h3>Efficient Agents</h3>
 <p><a href="https://dl.acm.org/doi/pdf/10.1145/3786335.3813163">AgentStop</a>: a lightweight efficiency supervisor that predicts and preemptively terminates local AI agent trajectories unlikely to succeed, reducing wasted energy on consumer devices by 15-20% with minimal impact on task performance.</p>
