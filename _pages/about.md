@@ -30,6 +30,7 @@ redirect_from:
 
 <div class="publication-list">
 <ul>
+  <li><a href="https://brave.com/blog/browser-ai-e2ee/">Another Brave User-First AI Win: Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a></li>
   <li><a href="https://brave.com/blog/indirect-prompt-injection/">Indirect Prompt Injection remains a fundamental security challenge for AI, whether cloud or local model hosting</a></li>
   <li><a href="https://brave.com/blog/agentic-oversharing/">Privacy risks of agentic oversharing on the Web</a></li>
   <li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a></li>
