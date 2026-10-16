@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Shahin Shamsabadi"
 title_separator          : "-"
 name                     : &name "Dr Ali Shahin Shamsabadi"
-description              : &description "Senior Researcher & Science-Driven Product Innovator"
+description              : &description "Senior Research Scientist & Science-Driven Product Innovator"
 url                      : https://AliShahin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AliShahin.github.io.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Ali Shahin Shamsabadi"
   avatar           : "alishahin-new.JPG"
-  bio              : "Senior Researcher & Science-Driven Product Innovator"
+  bio              : "Senior Research Scientist & Science-Driven Product Innovator"
   location         : "London"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en"

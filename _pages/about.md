@@ -23,40 +23,20 @@ redirect_from:
   <a href="https://members.loria.fr/EVincent/">Emmanuel Vincent</a>.
 </p>
 
-<p>
-  <strong>Contributed to shaping frontier AI governance.</strong> Co-author, <a href="https://arxiv.org/pdf/2601.11699">Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies</a>, a cross-institutional effort proposing AI Assurance Levels for independent verification of frontier AI developers’ safety and security claims, alongside co-authors including Yoshua Bengio, Miles Brundage and Adrian Weller.
-</p>
-
-
-
 <div class="research-section">
-<h2 id="blog-posts">Blog Posts and Press</h2>
+<h2 id="highlights">Highlights</h2>
 
 <div class="publication-list">
 <ul>
-  <li><a href="https://brave.com/blog/browser-ai-e2ee/">Another Brave User-First AI Win: Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a></li>
-  <li><a href="https://brave.com/blog/indirect-prompt-injection/">Indirect Prompt Injection remains a fundamental security challenge for AI, whether cloud or local model hosting</a></li>
-  <li><a href="https://brave.com/blog/agentic-oversharing/">Privacy risks of agentic oversharing on the Web</a></li>
-  <li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a></li>
-  <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
-  <li><a href="https://brave.com/blog/nebula/">Differentially private data collection</a></li>
-  <li><a href="https://brave.com/confidential-dpproof/">Verifiable differentially private ML</a></li>
-  <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2">Applying Zero Knowledge Proof in ML</a></li>
-  <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html">Privacy risks in Federated Learning</a></li>
+<li><strong>Contributed to shaping frontier AI governance.</strong> Co-author, <a href="https://arxiv.org/pdf/2601.11699">Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies</a>, a cross-institutional effort proposing AI Assurance Levels for independent verification of frontier AI developers’ safety and security claims, alongside co-authors including Yoshua Bengio, Miles Brundage and Adrian Weller.</li>
+<li><strong>Shipped verifiable privacy in Brave’s AI assistant, Leo.</strong> <a href="https://brave.com/blog/browser-ai-tee/">Confidential LLM inference in NVIDIA-backed Trusted Execution Environments</a> (2025), followed by <a href="https://brave.com/blog/browser-ai-e2ee/">end-to-end encryption with Oblivious HTTP</a> (2026), covered by <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">The Register</a> and <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">Privacy Guides</a>.</li>
+<li><strong>Shipped differentially private product analytics.</strong> <a href="https://brave.com/blog/nebula/">Nebula</a> brings formal differential privacy guarantees to Brave’s product usage analytics [CCS'2025].</li>
+<li><strong>Building secure agents in public.</strong> <a href="https://github.com/brave/bravebot">Brave Bot</a>, an open-source coding agent with structural resistance to indirect prompt injection.</li>
+<li><strong>Recognition.</strong> ICLR'2024 spotlight, ICLR'2023 notable top 5%, Turing top 10 project of 2022-2023, NeurIPS'2025 Top Reviewer, and one of 200 young researchers selected for the 8th Heidelberg Laureate Forum.</li>
 </ul>
 </div>
-<p>
-  My work has been cited in the press including
-  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">Thurrott</a>,
-  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">TuringTop10</a>,
-  <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">The Register</a>,
-  <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">Privacy Guides</a>,
-  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">StartupHub.ai</a> and
-  <a href="https://cyberinsider.com/braves-ai-assistant-leo-now-offers-cryptographically-proven-privacy/">Cyber Insider</a>.
-</p>
+
 </div>
-
-
 
 
 
@@ -66,10 +46,21 @@ redirect_from:
 My research initiates a fundamental question:
 <strong> How can we reliably verify the trustworthiness of AI-based services, given that: i) AI-based services are provided as "black-boxes" to protect intellectual property; ii) Institutions are materially disincentivized from trustworthy behavior. </strong>
 
+<h3>Secure, private and efficient AI agents</h3>
+
+<div class="publication-list">
+<ul>
+<li>Agent privacy: <a href="https://arxiv.org/pdf/2602.13516">SPILLage: Agentic Oversharing on the Web</a> [arXiv'2026], <a href="https://arxiv.org/pdf/2512.07725">Privacy Practices of Browser Agents</a> [arXiv'2025]</li>
+<li>Agent security: <a href="https://github.com/brave/bravebot">Brave Bot</a>, structural resistance to indirect prompt injection [open source]</li>
+<li>Agent efficiency: <a href="https://dl.acm.org/doi/pdf/10.1145/3786335.3813163">AgentStop</a> [CAIS'2026]</li>
+</ul>
+</div>
+
 <h3>Verifiable Trustworthiness of AI in Practice</h3>
 
 <div class="publication-list">
 <ul>
+<li>Verifiable governance: <a href="https://arxiv.org/pdf/2601.11699">Frontier AI Auditing</a> [arXiv'2026]</li>
 <li>Verifiable alignment: <a href="https://openreview.net/pdf/a7fc972d37b8ddb871df39aede9bf194ddc44e7e.pdf">SURE: SecUrely REpairs failures flagged by users</a> [NeurIPS'2025]</li>
 <li>Verifiable Uncertainty: <a href="https://arxiv.org/pdf/2505.23968">Confidential Guardian</a> [ICML'2025]</li>
 <li>Verifiable Privacy: <a href="https://openreview.net/pdf?id=PQY2v6VtGe">Confidential-DPproof</a> [ICLR'2024]</li>
@@ -146,7 +137,40 @@ user privacy expectations when acting on users’ behalf across live websites? A
 
 
 <div class="research-section">
+<h2 id="blog-posts">Blog Posts and Press</h2>
+
+<div class="publication-list">
+<ul>
+  <li><a href="https://brave.com/blog/browser-ai-e2ee/">Another Brave User-First AI Win: Leo adds End-to-end Encryption, Oblivious HTTP, and Verifiable Confidential Computing</a></li>
+  <li><a href="https://brave.com/blog/indirect-prompt-injection/">Indirect Prompt Injection remains a fundamental security challenge for AI, whether cloud or local model hosting</a></li>
+  <li><a href="https://brave.com/blog/agentic-oversharing/">Privacy risks of agentic oversharing on the Web</a></li>
+  <li><a href="https://brave.com/blog/browser-ai-tee/">Verifiable Privacy and Transparency: A new frontier for Brave AI privacy</a></li>
+  <li><a href="https://brave.com/blog/privacy-in-llms/">Membership Privacy Risks in LLMs</a></li>
+  <li><a href="https://brave.com/blog/nebula/">Differentially private data collection</a></li>
+  <li><a href="https://brave.com/confidential-dpproof/">Verifiable differentially private ML</a></li>
+  <li><a href="https://medium.com/@ashahin.ee/zero-knowledge-proofs-made-easy-understanding-and-applying-zero-knowledge-proof-in-machine-ccc3a41853c2">Applying Zero Knowledge Proof in ML</a></li>
+  <li><a href="https://www.cleverhans.io/2022/04/17/fl-privacy.html">Privacy risks in Federated Learning</a></li>
+</ul>
+</div>
+<p>
+  My work has been cited in the press including
+  <a href="https://www.thurrott.com/a-i/298422/brave-proposes-a-framework-to-ensure-machine-learning-models-are-trained-privately">Thurrott</a>,
+  <a href="https://www.turing.ac.uk/sites/default/files/2023-06/pioneering_new_approaches_to_verifying_the_fairness_of_ai_models_0.pdf">TuringTop10</a>,
+  <a href="https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/">The Register</a>,
+  <a href="https://www.privacyguides.org/news/2025/11/20/brave-announces-verifiable-and-transparent-tee-support-in-leo/">Privacy Guides</a>,
+  <a href="https://www.startuphub.ai/ai-news/ai-research/2025/verifiable-ai-privacy-brave-leos-tee-powered-breakthrough/">StartupHub.ai</a> and
+  <a href="https://cyberinsider.com/braves-ai-assistant-leo-now-offers-cryptographically-proven-privacy/">Cyber Insider</a>.
+</p>
+</div>
+
+
+
+
+
+<div class="research-section">
 <h2 id="recent-students">Recent Students</h2>
+
+<p>I host PhD research interns at Brave. If you would like to work with me on secure, private and verifiable AI and AI agents, <a href="mailto:ashahinshamsabadi@brave.com">email me</a> with your CV.</p>
 
 <div class="publication-list">
 <ul>
@@ -185,6 +209,10 @@ user privacy expectations when acting on users’ behalf across live websites? A
 <li><strong>[September 2024]</strong> My first-ever privacy-preserving product, <a href="https://brave.com/blog/nebula/">Differentially private data collection</a>.</li>
 <li><strong>[September 2024]</strong> A new preprint on differential privacy and telemetry data, called <a href="https://arxiv.org/pdf/2409.09676">Nebula: Efficient, Private and Accurate Histogram Estimation</a>.</li>
 <li><strong>[January 2024]</strong> Paper accepted at the 12th International Conference on Learning Representations <a href="https://iclr.cc/">ICLR2024</a>, called <a href="https://hal.science/hal-04610635/document">Confidential-DPproof: Confidential Proof of Differentially Private Training</a>. <span style="background-color:red"><font color="white"> spotlight </font></span></li>
+</ul>
+<details>
+<summary>Older news</summary>
+<ul>
 <li><strong>[September 2023]</strong> A new preprint on LLMs and privacy, called <a href="https://arxiv.org/pdf/2310.01424.pdf">Identifying and Mitigating Privacy Risks Stemming from Language Models: A Survey</a>.</li>
 <li><strong>[July 2023]</strong> Received Best Reviewers Free Registration award from <a href="https://fl-icml2023.github.io/">FL@ICML</a>!</li>
 <li><strong>[July 2023]</strong> Our project <a href="https://openreview.net/forum?id=iIfDQVyuFD">Confidential-PROFITT: Confidential PROof of FaIr Training of Trees</a> is selected as Turing's top 10 projects of 2022-2023, see <a href="https://www.turing.ac.uk/blog/turings-top-10-research-highlights-2022-23">Pioneering New Approaches to Verifying the Fairness of AI Models</a>!</li>
@@ -221,6 +249,7 @@ user privacy expectations when acting on users’ behalf across live websites? A
 <li><strong>[June 2018]</strong> Offered a PhD Enrichment scheme, a 9-month placement at <a href="https://www.turing.ac.uk">The Alan Turing Institute</a>!</li>
 <li><strong>[March 2018]</strong> Offered an internship for summer 2018 at <a href="https://www.turing.ac.uk">The Alan Turing Institute</a>, working on project Privacy-aware neural network classification & training under supervision of Adria Gascon, Matt Kusner, Varun Kanade!</li>
 </ul>
+</details>
 </div>
 
 </div>
